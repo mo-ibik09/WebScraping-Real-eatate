@@ -1,0 +1,1001 @@
+city,arrondissement,price,area,rooms,bathrooms,url
+casablanca,Ahl Loghlam (Hay Assalam),310000.0,73.0,2.0,1.0,https://www.mubawab.ma/fr/pa/6777701/appartement-de-73-m%C2%B2-en-vente-shems-al-madina-tit-mellil
+casablanca,Ahl Loghlam (Hay Assalam),370000.0,85.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7418542/appartement-de-85-m%C2%B2-de-cour-en-vente-shems-al-madina-tit-mellil
+casablanca,Bernoussi,845000.0,77.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7276870/apartement-de-77m%C2%B2-avec-22m%C2%B2-de-terrasse-en-vente-r%C3%A9sidence-el-yassamine
+casablanca,Aïn Sebaâ,881000.0,76.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7654230/bel-appartement-%C3%A0-vendre-%C3%A0-a%C3%AFn-seba%C3%A2-2-chambres
+casablanca,Racine,3500000.0,220.0,4.0,3.0,https://www.mubawab.ma/fr/a/7932652/duplex-4-chambres-a-vendre-racine
+casablanca,Riviera,1517000.0,65.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7503663/studio-de-48m%C2%B2-et-50m%C2%B2-de-cour-en-vente-blue-skies
+casablanca,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+casablanca,Riviera,1087000.0,53.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7503486/studio-au-rdc-de-46m%C2%B2-et-15m%C2%B2-de-cour-en-vente-blue-skies
+casablanca,Ahl Loghlam (Hay Assalam),370000.0,85.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7418552/appartement-de-85-m%C2%B2-en-vente-shems-al-madina-tit-mellil
+casablanca,,,,,,https://www.mubawab.ma/fr/p/4084/ana%C3%A9-garden-sea
+casablanca,Riviera,1131000.0,49.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7503656/studio-de-49m%C2%B2-en-vente-blue-skies
+casablanca,Bernoussi,820000.0,85.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7276869/apartement-de-85m%C2%B2-en-vente-r%C3%A9sidence-el-yassamine
+casablanca,Riviera,1218000.0,40.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7503532/studio-au-2%C3%A8me-%C3%A9tage-de-40m%C2%B2-en-vente-blue-skies
+casablanca,Riviera,1255000.0,49.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7503635/studio-de-49m%C2%B2-en-vente-blue-skies
+casablanca,Roches Noires,820000.0,62.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7926263/appartement-de-62m%C2%B2-et11m%C2%B2-de-parking
+casablanca,Aïn Sebaâ,1090000.0,93.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7654236/appartement-%C3%A0-vendre-%C3%A0-a%C3%AFn-seba%C3%A2-3-chambres-agr%C3%A9ables
+casablanca,Belvédère,1100000.0,89.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7714847/appartement-de-97m2-en-vente-avec-place-de-parking-de-13m2
+casablanca,Bernoussi,700000.0,75.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7276879/apartement-de-75m%C2%B2-en-vente-r%C3%A9sidence-el-yassamine
+casablanca,Racine,4200000.0,240.0,3.0,3.0,https://www.mubawab.ma/fr/a/7924689/bel-appartement-%C3%A0-la-vente
+casablanca,Hay Mohammadi,1155400.0,106.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7884128/appartement-%C3%A0-vendre-%C3%A0-hay-mohammadie-3-chambres-agr%C3%A9ables
+casablanca,Bernoussi,250000.0,50.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7589613/appartement-de-50-m%C2%B2-en-vente-r%C3%A9sidence-jnan-sbil
+casablanca,Roches Noires,680000.0,48.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7926260/appartement-de-48m%C2%B2-et-11m%C2%B2-de-parking
+casablanca,Belvédère,1420000.0,110.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7713794/appartement-de-110m-en-vente-avec-place-de-parking
+casablanca,Belvédère,1290000.0,115.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7461576/appartement-de-115m%C2%B2-en-vente-place-de-parking-titr%C3%A9e-de-13-m2-chraibi-immobilier
+casablanca,Sidi Maarouf,1502500.0,111.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7941897/appartement-%C3%A0-vendre-%C3%A0-sidi-maarouf-2-chambres-agr%C3%A9ables
+casablanca,Sidi Moumen,660000.0,73.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944511/un-joli-appartement-%C3%A0-prix-int%C3%A9ressant
+casablanca,City Dar Es Salaam,200000.0,52.0,2.0,1.0,https://www.mubawab.ma/fr/a/7942388/belle-occasion-%C3%A0-saisir-appartement-%C3%A0-vendre
+casablanca,Laymoune,750000.0,76.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939633/appartement-hay-laymoune-a-vendre
+casablanca,Oulfa,1290000.0,120.0,3.0,2.0,https://www.mubawab.ma/fr/a/7938015/duplex-for-sale-5-min-de-casa-anfa
+casablanca,Maârif,200000000.0,136.0,3.0,2.0,https://www.mubawab.ma/fr/a/7936842/bel-appartement-%C3%A0-vendre-%C3%A0-ma%C3%A2rif-3-belles-chambres-ascenseur-et-terrasse
+casablanca,Ain Borja,1500000.0,217.0,4.0,2.0,https://www.mubawab.ma/fr/a/7936780/vente-d-un-bel-appartement-%C3%A0-ain-borja-3-chambres-avec-ascenseur-et-terrasse-
+casablanca,Al Qods,575000.0,60.0,2.0,2.0,https://www.mubawab.ma/fr/a/7935167/appartement-a-vendre-a-al-qods-sidi-bernoussi
+casablanca,Les princesses,1900000.0,189.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934913/apt-189-m%C2%B2-156-m%C2%B2-habitable-dernier-etg-princesse
+casablanca,Les Hôpitaux,1300000.0,110.0,2.0,1.0,https://www.mubawab.ma/fr/a/7932404/appartement-a-vendre-qu-hopitaux-bd-anoual
+casablanca,Ahl Loghlam (Hay Assalam),250000.0,67.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7596073/superbe-appartement-%C3%A0-vendre-%C3%A0-ahl-loghlam-hay-assalam-3-belles-chambres
+casablanca,Bernoussi,250000.0,60.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7581280/appartement-de-60-m%C2%B2-en-vente-r%C3%A9sidence-jnan-sbil
+casablanca,Aïn Sebaâ,1176000.0,96.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7782822/appartement-81-m%C2%B2-3-chambres-ain-sbaa-casablanca-%C3%A0-vendre
+casablanca,Belvédère,1660000.0,148.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7599031/appartement-de-148m%C2%B2-en-vente-avec-place-de-parking-titr%C3%A9e-de-14m2-chraibi-immobilier
+casablanca,Aïn Sebaâ,802500.0,71.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7782821/appartement-%C3%A0-vendre-81-m%C2%B2-3-chambres-ain-sbaa-casablanca
+casablanca,Riviera,1017000.0,42.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7503677/studio-au-rdc-de-46m%C2%B2-en-vente-blue-skies
+casablanca,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+casablanca,Aïn Sebaâ,894400.0,71.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7885305/appartement-%C3%A0-vendre-71-m%C2%B2-2-chambres-ain-sbaa-casablanca
+casablanca,Ahl Loghlam (Hay Assalam),250000.0,67.0,3.0,2.0,https://www.mubawab.ma/fr/pa/6816812/appartement-de-67m%C2%B2-en-vente-ahl-loghlam-social-tit-mellil
+casablanca,,,,,,https://www.mubawab.ma/fr/p/4084/ana%C3%A9-garden-sea
+casablanca,Sidi Maarouf,1680000.0,125.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7941896/vend-appartement-%C3%A0-sidi-maarouf-2-chambres-agr%C3%A9ables
+casablanca,Sidi Maarouf,1458000.0,118.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7941893/vente-d-un-bel-appartement-%C3%A0-sidi-maarouf-2-belles-chambres
+casablanca,Sidi Maarouf,1602000.0,130.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7941892/superbe-appartement-%C3%A0-vendre-%C3%A0-sidi-maarouf-superficie-130-m%C2%B2
+casablanca,Sidi Maarouf,1421000.0,105.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7941885/bel-appartement-%C3%A0-vendre-%C3%A0-sidi-maarouf-surface-totale-105-m%C2%B2
+casablanca,Sidi Maarouf,1189000.0,88.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7941884/vend-appartement-%C3%A0-sidi-maarouf-1-chambre
+casablanca,Sidi Maarouf,1073140.0,95.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7942199/appartement-%C3%A0-l-achat-%C3%A0-sidi-maarouf-surface-de-95-m%C2%B2
+casablanca,Sidi Maarouf,1394500.0,116.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7942198/appartement-%C3%A0-vendre-%C3%A0-sidi-maarouf-surface-totale-116-m%C2%B2
+casablanca,Sidi Maarouf,1062700.0,112.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7942194/vente-d-un-bel-appartement-%C3%A0-sidi-maarouf-2-chambres-agr%C3%A9ables
+casablanca,Sidi Maarouf,1062700.0,112.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7942193/appartement-%C3%A0-vendre-%C3%A0-sidi-maarouf-2-chambres-agr%C3%A9ables
+casablanca,Oulfa,1300000.0,101.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7938270/appartement-%C3%A0-l-achat-%C3%A0-route-d-azzemour-3-belles-chambres
+casablanca,Oulfa,1300000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7938269/appartement-%C3%A0-vendre-rez-de-jardin-surface-de-127-m%C2%B2
+casablanca,Oulfa,1110000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7938264/appartement-%C3%A0-l-achat-rez-de-jardin-a-vendre-superficie-100-m%C2%B2
+casablanca,Oulfa,1300000.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7937018/vente-d-un-bel-appartement-%C3%A0-route-d-azzemour-surface-totale-97-m%C2%B2
+casablanca,Oulfa,1110000.0,81.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7937017/superbe-appartement-%C3%A0-vendre-superficie-81-m%C2%B2
+casablanca,Californie,1573020.0,102.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7902993/superbe-appartement-%C3%A0-vendre-%C3%A0-californie-superficie-102-m%C2%B2
+casablanca,Nassim 1,1180000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/a/7932077/appartement-nassim-residence-les-champs-85m2
+casablanca,Palmier,1500000.0,111.0,3.0,1.0,https://www.mubawab.ma/fr/a/7931885/appartement-%C3%A0-palmier
+casablanca,Les princesses,2000000.0,117.0,3.0,3.0,https://www.mubawab.ma/fr/a/7931592/vente-d-un-bel-appartement-117m2-les-princesses
+casablanca,Sidi Moumen,400000.0,57.0,2.0,1.0,https://www.mubawab.ma/fr/a/7931234/appartement-%C3%A0-l-achat-%C3%A0-sidi-moumen-2-grandes-pi%C3%A8ces-four-encastr%C3%A9-
+casablanca,Palmier,3642000.0,236.0,3.0,2.0,https://www.mubawab.ma/fr/a/7930299/palmier-appartement-familiale-proche-wilaya
+casablanca,Al Madina Aljadida,560000.0,61.0,2.0,1.0,https://www.mubawab.ma/fr/a/7918909/appartement-%C3%A0-vendre-61-m%C2%B2-%C3%A0-casablanca
+casablanca,Les Hôpitaux,1650000.0,154.0,3.0,2.0,https://www.mubawab.ma/fr/a/7909840/particulier-vend-appartement-%C3%A0-les-h%C3%B4pitaux-surface-de-154-m%C2%B2-prestation-de-conciergerie-air-conditionn%C3%A9
+casablanca,Triangle d'Or,2700000.0,138.0,3.0,2.0,https://www.mubawab.ma/fr/a/7899973/grand-appartement-haut-standing-triangle-d-or
+casablanca,Maârif Extension,1093500.0,81.0,2.0,1.0,https://www.mubawab.ma/fr/a/7890125/appartement-%C3%A0-vendre-%C3%A0-ma%C3%A2rif-extension
+casablanca,Anfa,3740000.0,124.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7727084/vente-d-un-bel-appartement-2-chambres-%C3%A0-anfa
+casablanca,Hay Mohammadi,1020600.0,94.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7885114/appartement-%C3%A0-vendre-%C3%A0-hay-mohammadi-3-chambres
+casablanca,Ahl Loghlam (Hay Assalam),250000.0,67.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7596075/bel-appartement-%C3%A0-vendre-%C3%A0-ahl-loghlam-hay-assalam-surface-totale-67-m%C2%B2
+casablanca,Riviera,1027000.0,47.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7503673/studio-de-42m%C2%B2-en-vente-blue-skies
+casablanca,Lissasfa,190000.0,54.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7890175/vente-d-un-bel-appartement-%C3%A0-lissasfa-2-chambres
+casablanca,Ahl Loghlam (Hay Assalam),250000.0,67.0,3.0,2.0,https://www.mubawab.ma/fr/pa/6796355/appartement-de-67m%C2%B2-en-vente-ahl-loghlam-social-tit-mellil
+casablanca,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+casablanca,Anfa,4080000.0,160.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7882026/appartement-%C3%A0-l-achat-%C3%A0-anfa-superficie-160-m%C2%B2
+casablanca,Belvédère,1520000.0,119.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7713801/appartement-de-119m2-en-vente-avec-place-de-parking
+casablanca,,,,,,https://www.mubawab.ma/fr/p/2095/rio-beach-appartements
+casablanca,Californie,1808340.0,113.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7877406/appartement-%C3%A0-vendre-103-m%C2%B2-3-chambres-californie-casablanca
+casablanca,Californie,1696000.0,106.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7877403/appartement-106-m%C2%B2-3-chambres-californie-casablanca
+casablanca,Californie,1798500.0,109.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7877402/appartement-109-m%C2%B2-3-chambres-californie-casablanca
+casablanca,Californie,1958000.0,118.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7877399/appartement-%C3%A0-vendre-118-m%C2%B2-3-chambres-californie-casablanca
+casablanca,Californie,1726000.0,104.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7877397/appartement-%C3%A0-vendre-104-m%C2%B2-3-chambres-californie-casablanca
+casablanca,Californie,1695500.0,113.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7877394/superbe-appartement-%C3%A0-vendre-%C3%A0-californie-3-chambres
+casablanca,Californie,1785000.0,113.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7877393/appartement-113-m%C2%B2-3-chambres-californie-casablanca
+casablanca,Maârif Extension,1713000.0,84.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7157729/appartement-2-chambres-maarif-extension-casablanca
+casablanca,Maârif Extension,1544000.0,78.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7157727/appartement-2-chambres-maarif-extension-casablanca
+casablanca,Californie,1316400.0,74.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7885313/vente-d-un-bel-appartement-%C3%A0-californie-2-chambres-agr%C3%A9ables
+casablanca,Californie,1786720.0,99.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7885312/appartement-%C3%A0-vendre-%C3%A0-californie-2-chambres
+casablanca,Hay Hassani,919800.0,72.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7876012/appartement-%C3%A0-vendre-2-chambres-%C3%A0-hay-hassani-casablanca
+casablanca,Hay Hassani,919800.0,72.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7876011/appartement-%C3%A0-l-achat-%C3%A0-hay-hassani-2-chambres-agr%C3%A9ables
+casablanca,Hay Hassani,1174950.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7876010/appartement-%C3%A0-vendre-72-m%C2%B2-2-chambres-hay-hassani-casablanca
+casablanca,Hay Hassani,1174950.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7876009/appartement-2-chambres-%C3%A0-vendre-72-m%C2%B2-hay-hassani-casablanca
+casablanca,Beauséjour,1250000.0,83.0,2.0,2.0,https://www.mubawab.ma/fr/a/7880850/apparemment-beausejour-a-vendre
+casablanca,Oasis,1230000.0,73.0,1.0,1.0,https://www.mubawab.ma/fr/a/7878777/studio-haut-standing-oasis
+casablanca,Californie,2178000.0,121.0,3.0,3.0,https://www.mubawab.ma/fr/a/7862907/d%C3%A9couvrer-votre-nouveau-havre-de-paix-%C3%A0-casablanca
+casablanca,Les Hôpitaux,1460000.0,95.0,2.0,2.0,https://www.mubawab.ma/fr/a/7859225/station-wafasalaf-appt-tr%C3%A8s-ensoleill%C3%A9-sans-vis-%C3%A0-vis-au-coeur-du-quartier-bancaire
+casablanca,Casablanca Finance City,1500000.0,64.0,1.0,1.0,https://www.mubawab.ma/fr/a/7839416/appartement-superbe-%C3%A0-casa-finance-city
+casablanca,Ain Chock,930000.0,64.0,2.0,1.0,https://www.mubawab.ma/fr/a/7821563/un-joli-appartement-%C3%A0-vendre
+casablanca,Nassim 1,1350000.0,119.0,3.0,2.0,https://www.mubawab.ma/fr/a/7787343/appart-de-119-m%C2%B2-dans-une-r%C3%A9sidence-ferm%C3%A9e-s%C3%A9curis%C3%A9e
+marrakech,Guéliz,3530000.0,196.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7915668/vente-d-un-bel-duplex-%C3%A0-gu%C3%A9liz-3-chambres
+marrakech,Guéliz,2316000.0,103.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7915635/appartement-%C3%A0-l-achat-%C3%A0-gu%C3%A9liz-2-chambres
+marrakech,Agdal,1740000.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783191/vend-appartement-%C3%A0-agdal-2-chambres-agr%C3%A9ables
+marrakech,Guéliz,1650000.0,64.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915640/appartement-%C3%A0-l-achat-%C3%A0-gu%C3%A9liz-superficie-64-m%C2%B2
+marrakech,Mhamid,252000.0,63.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874049/vend-appartement-%C3%A0-mhamid-2-chambres
+marrakech,Mhamid,276000.0,69.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874048/superbe-appartement-%C3%A0-vendre-%C3%A0-mhamid-2-chambres
+marrakech,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+marrakech,Mhamid,260000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874047/superbe-appartement-%C3%A0-vendre-%C3%A0-mhamid-surface-de-65-m%C2%B2
+marrakech,Mhamid,308000.0,77.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874046/vente-d-un-bel-appartement-%C3%A0-mhamid-surface-totale-77-m%C2%B2
+marrakech,,,,,,https://www.mubawab.ma/fr/p/4094/menzah-annakhil-tranche-2
+marrakech,Samlalia,500000.0,40.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7837805/appartement-en-vente-%C3%A0-samlalia-superficie-40-m%C2%B2
+marrakech,Mhamid,270000.0,55.0,2.0,1.0,https://www.mubawab.ma/fr/a/7810989/appartement-%C3%A0-l-achat-%C3%A0-mhamid-9-3-pi%C3%A8ces-confortables-avec-ascenseur-et-espace-vert
+marrakech,Samlalia,512500.0,41.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7837803/appartement-en-vente-%C3%A0-samlalia-1-belle-chambre
+marrakech,Samlalia,728000.0,56.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7798639/appartement-%C3%A0-l-achat-%C3%A0-samlalia-1-chambre
+marrakech,Mhamid,288000.0,64.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874045/appartement-%C3%A0-vendre-%C3%A0-mhamid-2-chambres
+marrakech,Mhamid,264000.0,66.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874044/superbe-appartement-%C3%A0-vendre-%C3%A0-mhamid-2-belles-chambres
+marrakech,Mhamid,276000.0,69.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874043/appartement-en-vente-%C3%A0-mhamid-2-chambres
+marrakech,Mhamid,279000.0,62.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874042/appartement-%C3%A0-vendre-%C3%A0-mhamid-surface-totale-62-m%C2%B2
+marrakech,Mhamid,220000.0,55.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7789121/local-commercial-%C3%A0-l-achat
+marrakech,Mhamid,316000.0,79.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7789120/appartement-en-vente-surface-de-56-m%C2%B2
+marrakech,Mhamid,370200.0,93.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7765569/appartements-et-commerces
+marrakech,Samlalia,537500.0,43.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7798634/appartement-%C3%A0-vendre-%C3%A0-samlalia-superficie-43-m%C2%B2
+marrakech,Samlalia,741000.0,57.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7798640/superbe-appartement-%C3%A0-vendre-%C3%A0-samlalia-1-chambre
+marrakech,Guéliz,2300000.0,126.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7915670/duplex-%C3%A0-vendre-%C3%A0-gu%C3%A9liz-3-chambres
+marrakech,Guéliz,2118000.0,94.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7915666/vente-d-un-bel-appartement-%C3%A0-gu%C3%A9liz-surface-totale-94-m%C2%B2
+marrakech,Hivernage,2600000.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942009/somptueux-appartement-meubl%C3%A9-%C3%A0-l%E2%80%99hivernage
+marrakech,Riad Zitoun,4870000.0,230.0,7.0,9.0,https://www.mubawab.ma/fr/a/7924875/riad-luxe-a-vendre-marrakech
+marrakech,Guéliz,1190000.0,60.0,2.0,2.0,https://www.mubawab.ma/fr/a/7825511/appartement-de-2-chambres-devant-le-grand-parc-harti
+marrakech,Daoudiat,890000.0,107.0,2.0,2.0,https://www.mubawab.ma/fr/a/7811620/superbe-appartement-daoudiate
+marrakech,Boukar,860000.0,86.0,2.0,2.0,https://www.mubawab.ma/fr/a/7918492/appartement-en-vente-%C3%A0-boukar-surface-de-86-m%C2%B2-fen%C3%AAtres-avec-double-vitrage-et-porte-blind%C3%A9e
+marrakech,Mhamid,410000.0,63.0,2.0,1.0,https://www.mubawab.ma/fr/a/7725082/bel-appartement-%C3%A0-vendre-%C3%A0-mhamid-surface-de-63-m%C2%B2-grande-terrasse
+marrakech,Route Casablanca,850000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/a/7859418/appartement-%C3%A0-l-achat-%C3%A0-route-casablanca-surface-de-85-m%C2%B2-antenne-parabolique-et-porte-blind%C3%A9e
+marrakech,Hivernage,1732500.0,49.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7906275/vend-appartement-%C3%A0-hivernage-1-belle-chambre
+marrakech,Route de Safi,650000.0,38.0,3.0,2.0,https://www.mubawab.ma/fr/a/7945040/vend-appartement-%C3%A0-route-de-safi-2-pi%C3%A8ces-confortables-s%C3%A9curis%C3%A9-24-24-
+marrakech,Guéliz,1475000.0,57.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915632/vente-d-un-bel-appartement-%C3%A0-gu%C3%A9liz
+marrakech,Mhamid,272000.0,68.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7874041/superbe-appartement-%C3%A0-vendre-%C3%A0-mhamid-2-chambres-agr%C3%A9ables
+marrakech,Guéliz,571200.0,48.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7674903/joli-studio-%C3%A0-vendre-amiral-immobilier
+marrakech,Guéliz,392700.0,33.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7670560/joli-studio-%C3%A0-vendre-amiral-immobilier
+marrakech,Guéliz,416500.0,35.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7670548/super-studio-%C3%A0-vendre-%C3%A0-gu%C3%A9liz-35-m%C2%B2
+marrakech,Guéliz,1023400.0,86.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7598949/magnifique-duplex-a-vendre-gu%C3%A9liz-86-m%C2%B2
+marrakech,Guéliz,844900.0,71.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7152712/appartement-de-71m%C2%B2-en-vente-amiral-immobilier
+marrakech,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+marrakech,Guéliz,940100.0,79.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7152706/appartement-de-79m%C2%B2-en-vente-amiral-immobilier
+marrakech,Guéliz,1154300.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7152705/appartement-de-98m%C2%B2-en-vente-gu%C3%A9liz
+marrakech,,,,,,https://www.mubawab.ma/fr/p/4094/menzah-annakhil-tranche-2
+marrakech,Hivernage,2432500.0,69.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7906279/vente-d-un-bel-appartement-%C3%A0-hivernage-surface-totale-69-m%C2%B2
+marrakech,Guéliz,1087500.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7661782/appartement-de-85m-en-vente-jnane-el-ali-gu%C3%A8liz
+marrakech,Agdal,2200000.0,120.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7591970/appartement-de-120-m%C2%B2-en-vente-r%C3%A9sidence-riad-garden
+marrakech,Guéliz,1575000.0,61.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915639/appartement-en-vente-%C3%A0-gu%C3%A9liz-1-chambre
+marrakech,Guéliz,1675000.0,65.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915633/superbe-appartement-%C3%A0-vendre-%C3%A0-gu%C3%A9liz-surface-de-64-m%C2%B2
+marrakech,Guéliz,1600000.0,110.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942163/appartement-%C3%A0-vendre-limite-plaza
+marrakech,Hivernage,1450000.0,103.0,2.0,1.0,https://www.mubawab.ma/fr/a/7938913/appartement-%C3%A0-vendre-en-plein-hivernage
+marrakech,Hivernage,2844000.0,122.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7909530/superbe-appartement-%C3%A0-vendre-%C3%A0-hivernage-surface-totale-122-m%C2%B2
+marrakech,Guéliz,971500.0,67.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7708899/appartement-%C3%A0-vendre-%C3%A0-gu%C3%A8liz-superficie-67m%C2%B2
+marrakech,Guéliz,1375000.0,110.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7662107/appartement-de-110-m%C2%B2-en-vente-jnane-el-ali-gu%C3%A8liz
+marrakech,Agdal,2100000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/a/7930414/dans-tr%C3%A8s-belle-r%C3%A9sidence-gard%C3%A9e-magnifique-appartement-3-chambres-grande-terrasse
+marrakech,Guéliz,1600000.0,68.0,2.0,2.0,https://www.mubawab.ma/fr/a/7922807/au-c%C5%93ur-de-gu%C3%A9liz-proche-march%C3%A9-au-fleurs-programme-immobilier-neuf-prestations-haut-de-gamme
+marrakech,Hay Mabrouka,1018500.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7916984/luxueux-appartement-f4-2-fa%C3%A7ades-%C3%A0-hay-mabrouka
+marrakech,Hay Mabrouka,594000.0,27.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7885599/espace-commercial-ideal-a-vendre
+marrakech,Hay Mabrouka,780000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7674127/magnifique-appartement-t3-surface-78m%C2%B2-%C3%A0-mabrouka
+marrakech,Guéliz,1250000.0,156.0,3.0,2.0,https://www.mubawab.ma/fr/a/7945003/massira-1-bloc-b
+marrakech,Guéliz,1650000.0,64.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915641/superbe-appartement-%C3%A0-vendre-%C3%A0-gu%C3%A9liz-superficie-64-m%C2%B2
+marrakech,Route Casablanca,1240000.0,96.0,2.0,2.0,https://www.mubawab.ma/fr/a/7827309/vente-jolie-appartement-2-chambre-vide-96-m%C3%A8tre
+marrakech,Hivernage,2055000.0,83.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7906282/bel-appartement-%C3%A0-vendre-%C3%A0-hivernage-1-belle-chambre
+marrakech,Guéliz,1711000.0,88.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7915642/vente-d-un-bel-appartement-%C3%A0-gu%C3%A9liz-2-chambres
+marrakech,Guéliz,1980000.0,220.0,3.0,2.0,https://www.mubawab.ma/fr/a/7927177/duplex-avec-beaux-volumes-%C3%A0-vendre-plein-gu%C3%A9liz
+marrakech,Guéliz,1648500.0,77.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7915643/superbe-appartement-%C3%A0-vendre-%C3%A0-gu%C3%A9liz-2-chambre
+marrakech,Guéliz,1550000.0,60.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915667/appartement-en-vente-%C3%A0-gu%C3%A9liz-1-chambre
+marrakech,Hivernage,2152500.0,61.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7906277/vente-d-un-bel-appartement-%C3%A0-hivernage-1-chambre
+marrakech,Guéliz,797300.0,67.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7152704/appartement-de-67m%C2%B2-en-vente-
+marrakech,Guéliz,1154300.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7152701/appartement-de-97m%C2%B2-en-vente-amiral-immobilier
+marrakech,Guéliz,1332800.0,112.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7152700/appartement-de-112m%C2%B2-en-vente-amiral-immobilier
+marrakech,Hivernage,1837500.0,52.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7906276/bel-appartement-%C3%A0-vendre-%C3%A0-hivernage-1-belle-chambre
+marrakech,Guéliz,1450000.0,56.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915664/vente-d-un-appartement-%C3%A0-gu%C3%A9liz-1-chambre
+marrakech,Agdal,1350000.0,68.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7302547/appartement-de-68m%C2%B2-en-vente-r%C3%A9sidence-riad-garden
+marrakech,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+marrakech,Samlalia,557000.0,46.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7837804/superbe-appartement-%C3%A0-vendre-%C3%A0-samlalia-superficie-46-m%C2%B2
+marrakech,Guéliz,1579500.0,117.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7662106/appartement-premium-%C3%A0-vendre-%C3%A0-jnane-el-ali-gu%C3%A8liz
+marrakech,,,,,,https://www.mubawab.ma/fr/p/3858/locaux-commerciaux-et-plateaux-bureaux
+marrakech,Guéliz,1176000.0,98.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7708910/appartement-de-83m%C2%B2-%C3%A0-vendre-jnane-el-ali-gu%C3%A8liz
+marrakech,Guéliz,1625000.0,63.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915638/appartement-%C3%A0-vendre-%C3%A0-gu%C3%A9liz-1-chambre
+marrakech,Guéliz,784000.0,49.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7699416/appartement-%C3%A0-vendre-jnane-el-ali-gu%C3%A8liz
+marrakech,Guéliz,1261500.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7662108/appartement-%C3%A0-vendre-jnane-el-ali-gu%C3%A8liz
+marrakech,Guéliz,928000.0,64.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7710255/bel-appartement-%C3%A0-vendre-%C3%A0-gu%C3%A8liz-superficie-64m%C2%B2
+marrakech,Guéliz,2520000.0,105.0,3.0,2.0,https://www.mubawab.ma/fr/a/7944801/duplex-sur-plan-au-c%C5%93ur-de-gu%C3%A9liz
+marrakech,Guéliz,1975000.0,79.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944800/app-luxe-sur-plan-au-centre-de-gu%C3%A9liz
+marrakech,Guéliz,1416000.0,59.0,1.0,1.0,https://www.mubawab.ma/fr/a/7944797/app-standing-sur-plan-c%C5%93ur-de-gu%C3%A9liz
+marrakech,Guéliz,960000.0,40.0,1.0,1.0,https://www.mubawab.ma/fr/a/7923162/appt-standing-sur-plan-march%C3%A9-aux-fleurs
+marrakech,Guéliz,1475000.0,118.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7661781/appartement-de-121m%C2%B2-en-vente-jnane-el-ali-gu%C3%A8liz
+marrakech,Hay Alfadl,940000.0,80.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939796/superbe-appartement-%C3%A0-vendre-%C3%A0-hay-izdihar-2-belles-chambres-antenne-parabolique-et-porte-blind%C3%A9e
+marrakech,Samlalia,500000.0,40.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7798633/superbe-appartement-%C3%A0-vendre-%C3%A0-samlalia-1-belle-chambre
+marrakech,Azzouzia,850000.0,107.0,2.0,2.0,https://www.mubawab.ma/fr/a/7921337/vend-appartement-%C3%A0-azzouzia-superficie-107-m%C2%B2-antenne-parabolique-et-porte-blind%C3%A9e
+marrakech,Samlalia,575000.0,46.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7798638/vend-appartement-%C3%A0-samlalia-surface-de-46-m%C2%B2
+marrakech,Ennakhil (Palmeraie),1250000.0,92.0,2.0,2.0,https://www.mubawab.ma/fr/a/7944086/palmeraie-appartement-de-qualit%C3%A9-avec-terrasse
+marrakech,Izdihar,700000.0,70.0,2.0,2.0,https://www.mubawab.ma/fr/a/7917400/appartement-%C3%A0-l-achat-%C3%A0-izdihar-2-chambres-agr%C3%A9ables
+marrakech,Guéliz,1600000.0,62.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915634/vente-d-un-bel-appartement-%C3%A0-gu%C3%A9liz-1-chambre
+marrakech,Guéliz,1754000.0,71.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7915631/vente-d-un-bel-appartement-%C3%A0-gu%C3%A9liz-surface-totale-65-m%C2%B2
+marrakech,Agdal,2000000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/a/7919362/appartement-vide-%C3%A0-vendre-vue-piscine-collective-agdal
+marrakech,Samlalia,1600000.0,114.0,3.0,2.0,https://www.mubawab.ma/fr/a/7944822/joli-appartement-3-chambres-%C3%A0-vendre-semlalia
+marrakech,Hivernage,2922000.0,121.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7909528/vente-d-un-bel-appartement-%C3%A0-hivernage-surface-de-121-m%C2%B2
+tanger,Tanger City Center,1494000.0,65.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7596460/bel-appartement-%C3%A0-vendre-%C3%A0-view-tower-superficie-65-m%C2%B2
+tanger,Aharrarine,250000.0,61.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7591922/appartement-de-62m%C2%B2-en-vente-r%C3%A9sidence-al-alia-garden
+tanger,Tanja Balia,936000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7676261/vente-d-un-bel-appartement-%C3%A0-tanja-balia-superficie-78-m%C2%B2
+tanger,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+tanger,Castilla,1760000.0,182.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7360903/appartement-de-182-m%C2%B2-%C3%A0-r%C3%A9sidence-assalam-tanger
+tanger,,,,,,https://www.mubawab.ma/fr/p/3861/tanja-balia-pool-residences
+tanger,Centre,2440000.0,121.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7784356/appartement-en-vente-en-centre-superficie-121-m%C2%B2
+tanger,Malabata,1995500.0,91.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875135/malabata-hills-appartement-haut-standing-91-m%C2%B2
+tanger,Malabata,1609000.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875130/malabata-hills-appartement-haut-standing-87-m%C2%B2
+tanger,Mesnana,1176000.0,112.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7371721/appartement-de-112m%C2%B2-en-vente-les-jardins-de-mesnana-golf
+tanger,Mesnana,1207500.0,115.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7371711/appartement-de-115m%C2%B2-en-vente-les-jardins-de-mesnana-golf
+tanger,Tanja Balia,1500000.0,125.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7676273/vend-appartement-%C3%A0-tanja-balia-surface-de-125-m%C2%B2
+tanger,Mesnana,380000.0,49.0,1.0,1.0,https://www.mubawab.ma/fr/a/7944573/tr%C3%A8s-bel-appartement-%C3%A0-vendre
+tanger,Tanger City Center,2040000.0,93.0,2.0,2.0,https://www.mubawab.ma/fr/a/7940794/appartement-2-chambre-93m2-malabata
+tanger,Centre,2000000.0,125.0,4.0,2.0,https://www.mubawab.ma/fr/a/7939778/perfect-apartment-for-sale-with-magnificent-view
+tanger,Manar,2800000.0,384.0,6.0,3.0,https://www.mubawab.ma/fr/a/7939449/appartement-128-m%C2%B2-3-%C3%A9tages-terrasse-sur-la-plage
+tanger,Centre,3200000.0,192.0,4.0,2.0,https://www.mubawab.ma/fr/a/7936544/appartement-%C3%A0-vendre-iberia
+tanger,Administratif,1300000.0,127.0,4.0,2.0,https://www.mubawab.ma/fr/a/7920066/appart-%C3%A0-vendre-127-m%C2%B2-au-centre-ville-tanger
+tanger,Hanaa 1,2000000.0,160.0,3.0,2.0,https://www.mubawab.ma/fr/a/7901860/appartement-duplex-2-mdh-avec-meubles
+tanger,Malabata,1380000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/6774556/residence-ferm%C3%A9e-vue-degag%C3%A9e-sur-montagne-piscine-100m%C2%B2
+tanger,Centre,2385000.0,115.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7784363/superbe-appartement-%C3%A0-vendre-en-centre-3-chambres
+tanger,Tanger City Center,2180000.0,88.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7596444/vend-appartement-%C3%A0-view-tower-surface-totale-88-m%C2%B2
+tanger,Mesnana,1207500.0,115.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7898947/appartement-%C3%A0-l-achat-%C3%A0-mesnana-3-chambres-agr%C3%A9ables
+tanger,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+tanger,Mesnana,1176000.0,112.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7867407/superbe-appartement-%C3%A0-vendre-%C3%A0-mesnana-superficie-112-m%C2%B2
+tanger,Mesnana,1239000.0,118.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7867406/bel-appartement-%C3%A0-vendre-%C3%A0-mesnana-surface-totale-118-m%C2%B2
+tanger,,,,,,https://www.mubawab.ma/fr/p/3861/tanja-balia-pool-residences
+tanger,Tanja Balia,1680000.0,140.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7837644/superbe-appartement-%C3%A0-vendre-%C3%A0-tanja-balia-surface-de-140-m%C2%B2
+tanger,Malabata,1380000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7598588/residence-ferm%C3%A9e-vue-degag%C3%A9e-sur-montagne-piscine-100m%C2%B2
+tanger,Tanja Balia,1125000.0,90.0,2.0,2.0,https://www.mubawab.ma/fr/a/7772397/appartements-de-standing-%C3%A0-vendre-%C3%A0-tanja-balia-tanger
+tanger,Centre,2385000.0,115.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7784355/vente-d-un-bel-appartement-en-centre-surface-de-115-m%C2%B2
+tanger,Castilla,1430000.0,144.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7360920/appartement-de-144-m%C2%B2-en-vente-r%C3%A9sidence-assalam
+tanger,Tanger City Center,1422000.0,76.0,2.0,2.0,https://www.mubawab.ma/fr/a/7269894/appartement-haut-standing-%C3%A0-vendre-pr%C3%A9s-gare-tgv
+tanger,Iberie,2100000.0,184.0,4.0,2.0,https://www.mubawab.ma/fr/a/7846882/vente-d%E2%80%99un-magnifique-duplex-de-184-m%C2%B2
+tanger,Souani,680000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7837425/appartements-et-duplex-vue-sur-mer-ibn-battouta
+tanger,Marjane,600000.0,82.0,2.0,1.0,https://www.mubawab.ma/fr/a/7764890/appartement-%C3%A0-l-achat-%C3%A0-marjane-1-pi%C3%A8ce-meubl%C3%A9-
+tanger,Aouama Gharbia,8000.0,135.0,2.0,2.0,https://www.mubawab.ma/fr/a/7764261/immeuble-r3-de-135-m2
+tanger,Castilla,2200000.0,205.0,4.0,2.0,https://www.mubawab.ma/fr/a/7716974/spacieux-appartement-de-4-chambres-situ%C3%A9-au-centre-de-tanger
+tanger,Tanja Balia,1368000.0,114.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7837643/superbe-appartement-%C3%A0-vendre-%C3%A0-tanja-balia-3-belles-chambres
+tanger,Tanja Balia,996000.0,83.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7676263/appartement-%C3%A0-l-achat-%C3%A0-tanja-balia-2-chambres-agr%C3%A9ables
+tanger,Mesnana,1097000.0,110.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7867405/vente-d-un-bel-appartement-%C3%A0-mesnana-3-belles-chambres
+tanger,Mesnana,1107000.0,111.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7867403/vend-appartement-%C3%A0-mesnana-3-chambres-agr%C3%A9ables
+tanger,Mesnana,867350.0,83.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7605814/appartement-de-83m%C2%B2-en-vente-les-jardins-de-mesnana-golf
+tanger,Mesnana,867350.0,83.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7371723/appartement-de-83m%C2%B2-en-vente-les-jardins-de-mesnana-golf
+tanger,Mesnana,1239000.0,118.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7371718/appartement-de-118m%C2%B2-en-vente-les-jardins-de-mesnana-golf
+tanger,Mesnana,1097000.0,110.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7371712/appartement-de-110m%C2%B2-en-vente-les-jardins-de-mesnana-golf
+tanger,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+tanger,Mesnana,1107000.0,111.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7371709/appartement-de-111m%C2%B2-en-vente-les-jardins-de-mesnana-golf
+tanger,Tanja Balia,1368000.0,114.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7676270/bel-appartement-%C3%A0-vendre-%C3%A0-tanja-balia-3-belles-chambres
+tanger,,,,,,https://www.mubawab.ma/fr/p/3576/les-jardins-de-mesnana-golf
+tanger,Malabata,1656300.0,124.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7874974/malabata-hills-appartement-haut-standing-124-m%C2%B2
+tanger,Malabata,2184300.0,179.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875022/malabata-hills-appartement-haut-standing-179-m%C2%B2
+tanger,Centre,2970000.0,151.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7784365/appartement-%C3%A0-vendre-en-centre-3-chambres-agr%C3%A9ables
+tanger,Centre,2980000.0,142.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7784358/superbe-appartement-%C3%A0-vendre-en-centre-superficie-142-m%C2%B2
+tanger,Centre,2440000.0,121.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7784364/vend-appartement-en-centre-3-belles-chambres
+tanger,Malabata,1380000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7598587/bel-appartement-%C3%A0-vendre-%C3%A0-malabata
+tanger,Castilla,1620000.0,158.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7360912/appartement-de-158-m%C2%B2-%C3%A0-r%C3%A9sidence-assalam
+tanger,Malabata,2177500.0,91.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875140/malabata-hills-appart-haut-standing-91-m%C2%B2-vue-mer
+tanger,Malabata,1768000.0,91.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875122/malabata-hills-appartement-haut-standing-91-m%C2%B2
+tanger,Aharrarine,640000.0,76.0,3.0,2.0,https://www.mubawab.ma/fr/a/7945023/bel-apprt-%C3%A0-vendre-3-ch-balcon-2-wc-assenceur
+tanger,Tanja Balia,1416000.0,118.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7676271/appartement-en-vente-%C3%A0-tanja-balia-3-chambres
+tanger,Tanja Balia,1020000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7676264/vente-d-un-bel-appartement-%C3%A0-tanja-balia-surface-totale-85-m%C2%B2
+tanger,Hay Hassani,680000.0,84.0,3.0,1.0,https://www.mubawab.ma/fr/a/7945008/superbe-appartement-%C3%A0-vendre-%C3%A0-hay-hassani-surface-de-84-m%C2%B2-avec-ascenseur
+tanger,Malabata,1565600.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875121/malabata-hills-appartement-haut-standing-87-m%C2%B2
+tanger,Tanger City Center,1494000.0,46.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7596462/bel-appartement-%C3%A0-vendre-%C3%A0-view-tower-une-chambre
+tanger,Tanger City Center,2180000.0,88.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7596455/appartement-en-vente-%C3%A0-view-tower-2-belles-chambres
+tanger,Tanja Balia,3020000.0,151.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7676272/appartement-en-vente-%C3%A0-malabata-hills
+tanger,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+tanger,Tanja Balia,1656000.0,138.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7676274/vente-d-un-bel-appartement-%C3%A0-tanja-balia-surface-de-138-m%C2%B2
+tanger,Centre,3000000.0,145.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7784359/vente-d-un-bel-appartement-en-centre-surface-de-145-m%C2%B2
+tanger,,,,,,https://www.mubawab.ma/fr/p/3861/tanja-balia-pool-residences
+tanger,Malabata,1380000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7598590/appartement-sans-vis-%C3%A0-vis-avec-piscine-100m%C2%B2
+tanger,Route Nationale Assilah (N1),1632000.0,135.0,3.0,2.0,https://www.mubawab.ma/fr/a/7395917/appartement-et-duplex-%C3%A0-vendre-d%C3%A9claration-100-
+tanger,Sania,1850000.0,110.0,2.0,2.0,https://www.mubawab.ma/fr/a/7781369/acheter-votre-appartement-a-tanger
+tanger,Administratif,2800000.0,155.0,3.0,3.0,https://www.mubawab.ma/fr/a/7792127/appartement-avec-3-chambres-a-vendre
+tanger,Tanja Balia,1200000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7676268/vente-d-un-bel-appartement-%C3%A0-tanja-balia-3-chambres
+tanger,Tanja Balia,804000.0,67.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7676260/superbe-appartement-%C3%A0-vendre-%C3%A0-tanja-balia-2-chambres
+tanger,Tanja Balia,972000.0,81.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7676262/vente-d-un-bel-appartement-%C3%A0-tanja-balia-surface-totale-81-m%C2%B2
+tanger,Marjane,850000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943074/apprtement-a-vendre-tanger
+tanger,Malabata,1768000.0,91.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875026/malabata-hills-appartement-haut-standing-91-m%C2%B2
+tanger,Centre,2300000.0,210.0,3.0,2.0,https://www.mubawab.ma/fr/a/7944837/grand-et-bel-appartement-au-prix-interessant
+tanger,Malabata,2184300.0,182.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7875025/malabata-hills-appartement-haut-standing-182-m%C2%B2
+tanger,Aharrarine,250000.0,56.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7834978/appartement-%C3%A0-vendre-%C3%A0-aharrarine-2-chambres-agr%C3%A9ables
+tanger,Tanger City Center,6958000.0,189.0,4.0,3.0,https://www.mubawab.ma/fr/pa/7596452/superbe-appartement-%C3%A0-vendre-%C3%A0-view-tower-surface-totale-189
+tanger,Castilla,1295000.0,155.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7360922/appartement-de-155m%C2%B2-%C3%A0-r%C3%A9sidence-assalam-tanger
+tanger,Tanger City Center,1980000.0,81.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7596448/bel-appartement-%C3%A0-vendre-%C3%A0-view-tower-superficie-81-m%C2%B2
+tanger,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+tanger,Castilla,1513250.0,162.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7360917/appartement-de-162-m%C2%B2-en-vente-complexe-assalam
+tanger,,,,,,https://www.mubawab.ma/fr/p/3861/tanja-balia-pool-residences
+tanger,Mozart,3815000.0,300.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942455/vente-appartement-300m%C2%B2place-mozart-tanger
+tanger,Tanger,2550000.0,214.0,3.0,2.0,https://www.mubawab.ma/fr/a/7439235/vente-appartement-214-m%C2%B2-avenue-moulay-youssef-tanger
+tanger,El Majd,580000.0,81.0,3.0,1.0,https://www.mubawab.ma/fr/a/7689680/projet-moyen-standing-%C3%A0-la-vente-avenue-qods-tanger
+tanger,Aouama Gharbia,620000.0,96.0,2.0,1.0,https://www.mubawab.ma/fr/a/7931339/appartement-avec-terrasse-%C3%A0-vendre-tanger
+tanger,Centre,2700000.0,152.0,3.0,2.0,https://www.mubawab.ma/fr/a/7938323/appartement-vide-%C3%A0-vendre-%E2%80%93-la-marche-verte
+tanger,Médina,1100000.0,91.0,3.0,1.0,https://www.mubawab.ma/fr/a/7918691/superbe-appartement-au-complexe-aida-village
+tanger,Administratif,2150000.0,116.0,3.0,2.0,https://www.mubawab.ma/fr/a/7881555/appart-3-chambres-en-vente-au-quartier-administra
+tanger,Castilla,1200000.0,120.0,3.0,2.0,https://www.mubawab.ma/fr/a/7891308/appartement-%C3%A0-vendre-tanger-castilla
+tanger,Mozart,2000000.0,142.0,3.0,2.0,https://www.mubawab.ma/fr/a/7901529/tr%C3%A8s-belle-appartement-%C3%A0-vendre-nejma
+tanger,Malabata,2700000.0,120.0,3.0,2.0,https://www.mubawab.ma/fr/a/7902437/appartement-3-chambres-vue-sur-mer-en-vente
+tanger,Malabata,1850000.0,101.0,2.0,2.0,https://www.mubawab.ma/fr/a/7920886/appartement-vue-sur-mer
+rabat,Hay El Menzah,1500000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659749/appartement-%C3%A0-vendre-%C3%A0-yacoub-mansour-surface-de-100-m%C2%B2
+rabat,Hay El Menzah,1570000.0,97.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659745/vend-appartement-%C3%A0-yacoub-al-mansour-2-belles-chambres
+rabat,Hay El Menzah,1300000.0,90.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659732/appartement-%C3%A0-l-achat-%C3%A0-yacoub-al-mansour-2-belles-chambres
+rabat,Hay El Menzah,1570000.0,97.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659751/appartement-de-2-chambres-%C3%A0-vendre-%C3%A0-yacoub-mansour-rabat
+rabat,Souissi,4800000.0,225.0,2.0,2.0,https://www.mubawab.ma/fr/a/7930247/vente-d%E2%80%99un-superbe-appartement-sur-souissi-rabat
+rabat,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+rabat,Hay El Menzah,1500000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659750/super-appartement-en-vente-%C3%A0-yacoub-al-mansour-de-100-m%C2%B2
+rabat,Hay El Menzah,2200000.0,112.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7659737/vente-d-un-bel-appartement-%C3%A0-yacoub-al-mansour-3-chambres-agr%C3%A9ables
+rabat,,,,,,https://www.mubawab.ma/fr/p/3915/r%C3%A9sidence-aday-mehdia
+rabat,Hay Nahda,1150000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939571/appartement-neuf-%C3%A0-vendre-%C3%A0-hay-nahda
+rabat,Hay Nahda,1080000.0,70.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942841/appartement-neuf-%C3%A0-vendre-%C3%A0-hay-nahda
+rabat,Agdal,1800000.0,80.0,2.0,2.0,https://www.mubawab.ma/fr/a/7903907/appartement-%C3%A0-vendre-%C3%A0-l-agdal-rabat
+rabat,Riyad,3000000.0,144.0,3.0,3.0,https://www.mubawab.ma/fr/a/7917828/appartement-%C3%A0-vendre-prestigia-hay-riad
+rabat,Souissi,5500000.0,290.0,3.0,3.0,https://www.mubawab.ma/fr/a/7455060/appartement-standing-a-vendre-a-l-orangeraie-souissi
+rabat,Souissi,6200000.0,260.0,4.0,4.0,https://www.mubawab.ma/fr/a/7884932/appartement-standing-a-vendre-a-l-orangeraie-souis
+rabat,Souissi,13000000.0,2400.0,4.0,3.0,https://www.mubawab.ma/fr/a/7941437/belle-villa-%C3%A0-vendre-au-souissi
+rabat,Riyad,2400000.0,96.0,2.0,2.0,https://www.mubawab.ma/fr/a/7915807/bel-appartement-%C3%A0-vendre-%C3%A0-riyad-2-chambres-agr%C3%A9ables-terrasse-et-ascenseur
+rabat,Agdal,3200000.0,183.0,3.0,3.0,https://www.mubawab.ma/fr/a/7891002/appartement-%C3%A0-vendre-au-bas-agdal
+rabat,L'Ocean,1250000.0,112.0,3.0,2.0,https://www.mubawab.ma/fr/a/7924180/spacieux-appartement-%C3%A0-vendre-sur-rabat
+rabat,Riyad,2800000.0,182.0,3.0,3.0,https://www.mubawab.ma/fr/a/7930049/appartement-%C3%A0-vendre-avec-vue-d%C3%A9gag%C3%A9e
+rabat,Aviation - Mabella,1900000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/a/7924104/appartement-de-luxe-%C3%A0-vendre-sur-mabella
+rabat,Souissi,6500000.0,269.0,4.0,4.0,https://www.mubawab.ma/fr/a/7937106/magnifique-appartement-4-chambres-rabat-souissi
+rabat,Aviation - Mabella,2150000.0,146.0,3.0,2.0,https://www.mubawab.ma/fr/a/7838412/spacieux-appartement-dans-belle-r%C3%A9sidence-ferm%C3%A9e
+rabat,Riyad,3880000.0,210.0,4.0,3.0,https://www.mubawab.ma/fr/a/7688128/magnifique-appartement-duplex-%C3%A0-hay-riad
+rabat,Riyad,2500000.0,201.0,2.0,2.0,https://www.mubawab.ma/fr/a/7133634/tr%C3%A8s-belle-appart-%C3%A0-vendre-%C3%A0-prestigia
+rabat,Riyad,2200000.0,110.0,2.0,2.0,https://www.mubawab.ma/fr/a/7448660/appartement-%C3%A0-vendre-%C3%A0-prestigia-hay-riad
+rabat,Agdal,2000000.0,90.0,1.0,1.0,https://www.mubawab.ma/fr/a/7945066/vend-appartement-%C3%A0-agdal-1-chambre-avec-ascenseur-et-terrasse
+rabat,Riyad,2900000.0,144.0,3.0,3.0,https://www.mubawab.ma/fr/a/7930494/tr%C3%A8s-bel-appartement-%C3%A0-vendre-%C3%A0-prestigia
+rabat,Hay Nahda,1200000.0,84.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942901/appartement-%C3%A0-vendre-%C3%A0-hay-nahda-surface-de-84-m%C2%B2-salon-marocain-traditionnel
+rabat,Hay El Menzah,1750000.0,116.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7659747/bel-appartement-%C3%A0-vendre-%C3%A0-yacoub-al-mansour-surface-de-116-m%C2%B2
+rabat,Hay El Menzah,1300000.0,90.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659741/appartement-en-vente-%C3%A0-yacoub-al-mansour-2-chambres-agr%C3%A9ables
+rabat,Hay El Menzah,2900000.0,120.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7659739/vend-appartement-%C3%A0-yacoub-al-mansour-3-belles-chambres
+rabat,Hay El Menzah,1500000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659746/vente-d-un-bel-appartement-%C3%A0-yacoub-al-mansour-surface-de-100-m%C2%B2
+rabat,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+rabat,Hay El Menzah,1750000.0,97.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659735/appartement-%C3%A0-l-achat-%C3%A0-yacoub-al-mansour-surface-de-97-m%C2%B2
+rabat,Hay El Menzah,1570000.0,97.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7659744/vente-d-un-bel-appartement-%C3%A0-yacoub-al-mansour-surface-totale-97-m%C2%B2
+rabat,,,,,,https://www.mubawab.ma/fr/p/3915/r%C3%A9sidence-aday-mehdia
+rabat,Aviation - Mabella,1900000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/a/7924104/appartement-de-luxe-%C3%A0-vendre-sur-mabella
+rabat,Riyad,2900000.0,168.0,3.0,2.0,https://www.mubawab.ma/fr/a/7789986/appartement-rez-de-jardin-%C3%A0-prestigia-hay-riad-rabat
+rabat,Souissi,4900000.0,233.0,3.0,2.0,https://www.mubawab.ma/fr/a/7930007/appartement-%C3%A0-vendre-l-orangerie-souissi-rabat
+rabat,Aviation - Mabella,1200000.0,67.0,2.0,1.0,https://www.mubawab.ma/fr/a/7863434/vente-appartement-%C3%A0-mabella
+rabat,Souissi,5500000.0,280.0,3.0,3.0,https://www.mubawab.ma/fr/a/7922976/appartement-rez-de-jardin-en-vente-%C3%A0-souissi-rabat-espaces-verts-et-ascenseur
+rabat,Souissi,5000000.0,260.0,3.0,2.0,https://www.mubawab.ma/fr/a/7813470/vente-appartement-rabat-souissi-orangeraie
+rabat,Riyad,2300000.0,145.0,3.0,2.0,https://www.mubawab.ma/fr/a/7801628/vente-appartement-rabat-hay-riad
+rabat,Souissi,7000000.0,450.0,4.0,1.0,https://www.mubawab.ma/fr/a/7661142/vente-appartement-rabat-souissi-orangeraie
+rabat,Riyad,2800000.0,201.0,2.0,2.0,https://www.mubawab.ma/fr/a/7944850/appartement-en-vente-%C3%A0-riyad-2-chambres-terrasse-et-jardin
+rabat,Hay Ach-chbanat,3400000.0,108.0,2.0,2.0,https://www.mubawab.ma/fr/a/7783394/joli-appartement-%C3%A0-vendre-vue-sur-mer
+rabat,Al Kamra,1700000.0,126.0,3.0,2.0,https://www.mubawab.ma/fr/a/7830768/appartement-en-vente-%C3%A0-r%C3%A9sidence-rabat
+rabat,Souissi,2300000.0,98.0,2.0,2.0,https://www.mubawab.ma/fr/a/7774910/bel-appartement-%C3%A0-vendre-au-quartier-jnane-souissi
+rabat,Riyad,2600000.0,140.0,4.0,3.0,https://www.mubawab.ma/fr/a/7944494/particulier-vend-bel-appartement-moderne-tr%C3%A8s-bien
+rabat,Hassan - Centre Ville,2100000.0,156.0,2.0,3.0,https://www.mubawab.ma/fr/a/7783720/un-appartement-vide-en-vente-avec-terrasse
+rabat,Agdal,2350000.0,124.0,3.0,2.0,https://www.mubawab.ma/fr/a/7801545/appartement-%C3%A0-vendre-%C3%A0-agdal
+rabat,Agdal,2200000.0,134.0,3.0,2.0,https://www.mubawab.ma/fr/a/7708484/appartement-%C3%A0-vendre
+rabat,Hassan - Centre Ville,2300000.0,114.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934275/appartement-%C3%A0-vendre-%C3%A0-hassan
+rabat,Riyad,3300000.0,165.0,3.0,2.0,https://www.mubawab.ma/fr/a/7885258/appartement-%C3%A0-vendre-%C3%A0-hay-riad
+rabat,Agdal,8000.0,50.0,1.0,1.0,https://www.mubawab.ma/fr/a/7876225/appartement-%C3%A0-louer-usage-de-bureau-%C3%A0-l-agdal
+rabat,Souissi,4900000.0,233.0,3.0,3.0,https://www.mubawab.ma/fr/a/7923680/appt-de-luxe-%C3%A0-vendre-%C3%A0-l%E2%80%99orangeraie-de-souissi
+rabat,Agdal,1950000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7648397/%C3%A0-vendre-un-appart-3p-neuf-en-haut-agdal
+rabat,Les Oudayas,3300000.0,138.0,2.0,2.0,https://www.mubawab.ma/fr/a/7944219/un-magnifique-appartement-%C3%A0-vendre
+rabat,Les Oudayas,3300000.0,138.0,2.0,2.0,https://www.mubawab.ma/fr/a/7944218/un-magnifique-appartement-%C3%A0-vendre
+rabat,Souissi,6800000.0,410.0,5.0,4.0,https://www.mubawab.ma/fr/a/7882824/un-magnifique-penthouse-%C3%A0-vendre
+rabat,Souissi,5600000.0,222.0,4.0,3.0,https://www.mubawab.ma/fr/a/7900954/un-magnifique-apt-%C3%A0-vendre
+rabat,Diour Jamaa,1350000.0,120.0,2.0,1.0,https://www.mubawab.ma/fr/a/7901631/appartement-%C3%A0-vendre-quartier-diour-jamae
+rabat,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+rabat,Hay Al Massira,1850000.0,118.0,3.0,1.0,https://www.mubawab.ma/fr/a/7930883/vente-d%E2%80%99un-superbe-appartement-sur-hay-el-massira-rabat
+rabat,Riyad,2400000.0,112.0,5.0,4.0,https://www.mubawab.ma/fr/a/7722487/appartement-%C3%A0-vendre-hay-riad-rabat
+rabat,,,,,,https://www.mubawab.ma/fr/p/3398/r%C3%A9sidence-yasmine-temara
+rabat,Hassan - Centre Ville,3200000.0,199.0,3.0,1.0,https://www.mubawab.ma/fr/a/7943753/tour-hassan-appartement-vue-panoramique-%C3%A0-retaper
+rabat,Riyad,3300000.0,168.0,3.0,2.0,https://www.mubawab.ma/fr/a/7943659/superbe-appartement-%C3%A0-vendre
+rabat,Souissi,4900000.0,233.0,3.0,2.0,https://www.mubawab.ma/fr/a/7451420/bel-appartement-%C3%A0-vendre-%C3%A0-l-orangeraie-souissi-ra
+rabat,Agdal,2300000.0,107.0,2.0,2.0,https://www.mubawab.ma/fr/a/7938633/vente-appartement-agdal-107m%C2%B2
+rabat,Riyad,2100000.0,92.0,2.0,2.0,https://www.mubawab.ma/fr/a/7914302/appartement-meubl%C3%A9-en-vente-%C3%A0-prestigia-hay-riad
+rabat,Agdal,2475000.0,165.0,3.0,2.0,https://www.mubawab.ma/fr/a/7826500/vente-appartement-165m%C2%B2-agdal
+rabat,Rabat,1500000.0,110.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943499/appartement-%C3%A0-vendre-110-m%C2%B2-2-chambres-hassan-centre-ville-rabat
+rabat,Diour Jamaa,1550000.0,115.0,2.0,2.0,https://www.mubawab.ma/fr/a/7943456/appartement-%C3%A0-vendre-%C3%A0-diour-jamaa-surface-totale-115-m%C2%B2-avec-ascenseur-et-terrasse
+rabat,Agdal,2400000.0,110.0,2.0,2.0,https://www.mubawab.ma/fr/a/7943445/duplex-en-vente-%C3%A0-agdal-3-pi%C3%A8ces-service-de-concierge-et-climatisation
+rabat,Agdal,1050000.0,43.0,1.0,1.0,https://www.mubawab.ma/fr/a/7820950/appartement-43m-agdal-centre
+rabat,Agdal,2720000.0,142.0,2.0,2.0,https://www.mubawab.ma/fr/a/7913988/bel-appartement-140m-haut-agdal
+rabat,Agdal,900000.0,77.0,1.0,1.0,https://www.mubawab.ma/fr/a/7943153/appartement-coqu%C3%A8te-%C3%A0-vendre-sur-rabat
+rabat,Riyad,4800000.0,240.0,3.0,3.0,https://www.mubawab.ma/fr/a/7455054/appartement-standing-neuf-avec-terrasse-%C3%A0-vendre
+rabat,Souissi,4400000.0,210.0,3.0,3.0,https://www.mubawab.ma/fr/a/7714417/appartement-standing-a-vendre-a-l-orangeraie-souissi
+rabat,Souissi,4500000.0,189.0,3.0,3.0,https://www.mubawab.ma/fr/a/7709117/appartement-standing-a-vendre-a-souissi
+rabat,Souissi,5300000.0,342.0,3.0,3.0,https://www.mubawab.ma/fr/a/7881657/appartement-standing-neuf-a-vendre-a-souissi
+rabat,Souissi,2990000.0,168.0,2.0,2.0,https://www.mubawab.ma/fr/a/7881652/appartement-neuf-a-vendre-a-l-orangeraie-souissi
+rabat,Souissi,5200000.0,215.0,3.0,3.0,https://www.mubawab.ma/fr/a/7765727/appartement-neuf-standing-a-l-orangeraie-souissi
+rabat,Souissi,6000000.0,290.0,4.0,4.0,https://www.mubawab.ma/fr/a/7721375/appartement-standing-neuf-a-vendre-a-l-orangeraie
+rabat,Hassan - Centre Ville,1750000.0,141.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943100/vente-d-un-appartement-neuf-jamais-habit%C3%A9-%C3%A0-rabat
+rabat,Hassan - Centre Ville,1600000.0,105.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943054/magnifique-appartement-%C3%A0-vendre-sur-rabat-hassan
+rabat,Hassan - Centre Ville,2000000.0,113.0,3.0,2.0,https://www.mubawab.ma/fr/a/7943028/vente-d-un-appartement-neuf-jamais-habit%C3%A9-%C3%A0-rabat
+rabat,Hassan - Centre Ville,1250000.0,70.0,1.0,2.0,https://www.mubawab.ma/fr/a/7942927/vente-d-un-appartement-neuf-jamais-habit%C3%A9-%C3%A0-rabat
+rabat,Rabat,900000.0,76.0,3.0,1.0,https://www.mubawab.ma/fr/a/7942720/appartement-%C3%A0-vendre-76-m%C2%B2-3-chambres-fadesa-nahda-rabat
+rabat,Aviation - Mabella,2500000.0,140.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942691/appartement-%C3%A0-vendre-140-m%C2%B2-3-chambres-aviation-mabella-rabat
+rabat,Aviation - Mabella,1900000.0,121.0,3.0,1.0,https://www.mubawab.ma/fr/a/7942684/appartement-%C3%A0-vendre-121-m%C2%B2-3-chambres-aviation-mabella-rabat
+rabat,L'Ocean,1590000.0,128.0,4.0,2.0,https://www.mubawab.ma/fr/a/7942683/appartement-%C3%A0-vendre-128-m%C2%B2-4-chambres-l-ocean-rabat
+rabat,Rabat,4800000.0,251.0,2.0,3.0,https://www.mubawab.ma/fr/a/7942609/appartement-%C3%A0-vendre-de-251-0-m%C2%B2-%C3%A0-rabat-dar-essalam
+rabat,Souissi,2400000.0,117.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937148/bel-appartement-%C3%A0-vendre
+rabat,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+rabat,Diour Jamaa,1250000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/a/7883026/superbe-appartement-%C3%A0-vendre-%C3%A0-diour-jamaa-2-pi%C3%A8ces-confortables
+rabat,Riyad,4500000.0,200.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942259/appartement-neuf-avec-2-fa%C3%A7ades-hay-riad-rabat
+rabat,,,,,,https://www.mubawab.ma/fr/p/3603/r%C3%A9sidence-ferm%C3%A9e-de-villas-isol%C3%A9es-18m-avenue
+agadir,Hay Houda,546000.0,63.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783672/bel-appartement-%C3%A0-vendre-2-chambres-surface-de-63-m%C2%B2
+agadir,Hay Houda,966000.0,84.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7783550/appartement-en-vente-%C3%A0-ville-nouvelle-surface-totale-84-m%C2%B2
+agadir,Hay Houda,624000.0,65.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783667/superbe-appartement-2-chambres-salon-65-m%C2%B2
+agadir,Hay Houda,549000.0,58.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783665/appartement-de-standing-58-m%C2%B2-2-chambres-salon-agadir
+agadir,Hay Houda,979000.0,89.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7783553/appartement-3-chambres-massylia-agadir
+agadir,Hay Houda,957000.0,87.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7783548/bel-appartement-%C3%A0-vendre-%C3%A0-ville-nouvelle-surface-de-87-m%C2%B2
+agadir,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+agadir,Secteur Touristique,2600000.0,125.0,2.0,1.0,https://www.mubawab.ma/fr/a/7911579/duplex-vue-exceptionnel-sur-la-bay-d-agadir
+agadir,Haut Founty,992600.0,65.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7865976/superbe-appartement-%C3%A0-vendre-%C3%A0-haut-founty-2-belles-chambres
+agadir,Hay Houda,1012000.0,92.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7783551/appartement-%C3%A0-vendre-%C3%A0-agadir-surface-de-95-m%C2%B2
+agadir,Hay Houda,630000.0,72.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783670/bel-appartement-de-standing-%C3%A0-vendre-3-chambres-salon
+agadir,Hay Houda,890000.0,81.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7783552/vente-d-un-bel-appartement-%C3%A0-ville-nouvelle-surface-de-81-m%C2%B2
+agadir,Haut Founty,1297350.0,83.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7833508/appartement-%C3%A0-vendre-%C3%A0-haut-founty-superficie-83-m%C2%B2
+agadir,Haut Founty,1200000.0,79.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7833506/vend-appartement-%C3%A0-haut-founty-superficie-79-m%C2%B2
+agadir,Haut Founty,696600.0,46.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7833513/appartement-%C3%A0-l-achat-%C3%A0-haut-founty-1-chambre
+agadir,Hay Najah,1550000.0,130.0,2.0,2.0,https://www.mubawab.ma/fr/a/7549505/appartement-moderne-%C3%A0-vendre
+agadir,Hay Najah,1350000.0,102.0,3.0,2.0,https://www.mubawab.ma/fr/a/7808026/appartement-de-standing-3-chambres-a-vendre
+agadir,Hay Mohammadi,1260000.0,87.0,2.0,1.0,https://www.mubawab.ma/fr/a/7891841/bel-appartement-neuf-moderne-87m2-a-haut-founty
+agadir,Hay Mohammadi,850000.0,96.0,1.0,1.0,https://www.mubawab.ma/fr/a/7485377/appartement-%C3%A0-vendre-%C3%A0-agadir
+agadir,Haut Founty,1282000.0,83.0,2.0,1.0,https://www.mubawab.ma/fr/a/7940161/appartements-%C3%A0-vendre-agadir-haut-founty
+agadir,Haut Founty,650000.0,36.0,1.0,1.0,https://www.mubawab.ma/fr/a/7934934/perla-living-studios-neufs-haut-founty
+agadir,Hay Salam,740000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939363/vend-appartement-%C3%A0-hay-salalm
+agadir,Hay Dakhla,510000.0,52.0,1.0,1.0,https://www.mubawab.ma/fr/a/7877186/magnifique-appartement-%C3%A0-vendre-52-m%C2%B2-%C3%A0-agadir
+agadir,Hay Salam,680000.0,65.0,3.0,1.0,https://www.mubawab.ma/fr/a/7922035/appartement-meubl%C3%A9-100-100-neuf
+agadir,Secteur Touristique,3400000.0,133.0,2.0,2.0,https://www.mubawab.ma/fr/a/7880436/appart-%C3%A0-vendre-%C3%A0-la-marina
+agadir,Amsernate,620000.0,68.0,2.0,2.0,https://www.mubawab.ma/fr/a/7945029/appartement-%C3%A0-vendre-68-m%C2%B2-%C3%A0-agadir
+agadir,Haut Founty,1183700.0,80.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7833512/vend-appartement-%C3%A0-haut-founty-superficie-80-m%C2%B2
+agadir,Haut Founty,598880.0,40.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7833514/appartement-%C3%A0-l-achat-%C3%A0-haut-founty-1-chambre
+agadir,Riad Salam,770000.0,72.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944947/bel-appartement-%C3%A0-vendre-%C3%A0-riad-salam
+agadir,Hay Massira,1280000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/a/7944941/vente-d-un-bel-appartement-%C3%A0-kettani-3-grandes-pi%C3%A8ces-antenne-parabolique-et-s%C3%A9curit%C3%A9
+agadir,Tilila,810000.0,75.0,2.0,2.0,https://www.mubawab.ma/fr/a/7944940/bel-appartement-%C3%A0-vendre-%C3%A0-tilila-surface-totale-75-m%C2%B2-syst%C3%A8me-de-parabole-et-r%C3%A9sidence-s%C3%A9curis%C3%A9e
+agadir,Haut Founty,790000.0,50.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7833505/bel-appartement-%C3%A0-vendre-%C3%A0-haut-founty-1-belle-chambre
+agadir,Haut Founty,1233640.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7833511/bel-appartement-%C3%A0-vendre-%C3%A0-haut-founty-surface-totale-80-m%C2%B2
+agadir,Haut Founty,1695360.0,105.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7833509/vente-d-un-bel-appartement-%C3%A0-haut-founty-superficie-105-m%C2%B2
+agadir,Hay Mohammadi,800000.0,70.0,3.0,2.0,https://www.mubawab.ma/fr/a/7944772/superbe-appartement-%C3%A0-vendre-%C3%A0-hay-mohammadi-surface-de-70-m%C2%B2-ascenseur-
+agadir,Secteur Touristique,2750000.0,75.0,1.0,1.0,https://www.mubawab.ma/fr/a/7944717/garsonier-a-vendre-%C3%A0-imi-oudder
+agadir,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+agadir,Hay Salam,570000.0,60.0,3.0,2.0,https://www.mubawab.ma/fr/a/7944661/vente-appartement-hay-salam
+agadir,Hay Mohammadi,680000.0,56.0,1.0,1.0,https://www.mubawab.ma/fr/a/7944649/studio-en-vente-%C3%A0-islan-surface-de-56-m%C2%B2-piscine-et-service-de-conciergerie
+agadir,Haut Founty,980500.0,64.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7865974/superbe-appartement-%C3%A0-vendre-%C3%A0-haut-founty-superficie-64-m%C2%B2
+agadir,Hay Houda,700000.0,67.0,2.0,2.0,https://www.mubawab.ma/fr/a/7723321/appartement-en-vente-%C3%A0-hay-houda-3-pi%C3%A8ces-
+agadir,Hay Salam,630000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944536/appartement-2-chambres-%C3%A9tage-4-avec-ascenseur
+agadir,Haut Founty,1284800.0,82.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7833507/superbe-appartement-%C3%A0-vendre-%C3%A0-haut-founty-2-chambres
+agadir,Haut Founty,1251160.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7833510/appartement-%C3%A0-vendre-%C3%A0-haut-founty-superficie-80-m%C2%B2
+agadir,Hay Mohammadi,560000.0,58.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943861/appartement-en-vente-%C3%A0-hay-mohammadi-2-chambres-antenne-parabolique-et-s%C3%A9curit%C3%A9
+agadir,Haut Founty,1560000.0,120.0,4.0,2.0,https://www.mubawab.ma/fr/a/7940475/bel-appartement-%C3%A0-vendre-%C3%A0-haut-founty-surface-totale-120-m%C2%B2-terrasse-et-jardin
+agadir,Ville Nouvelle,1600000.0,83.0,2.0,1.0,https://www.mubawab.ma/fr/a/7414831/appartement-%C3%A0-vente-au-sonaba
+agadir,Founti,5900000.0,243.0,3.0,4.0,https://www.mubawab.ma/fr/a/7855043/villa-meubl%C3%A9e-%C3%A0-vendre
+agadir,Hay Houda,1400000.0,79.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943497/appartement-%C3%A0-vendre-79-m%C2%B2-2-chambres-hay-houda-agadir
+agadir,Hay Salam,450000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943190/vente-d-un-bel-appartement-%C3%A0-hay-salam-3-pi%C3%A8ces-porte-blind%C3%A9e-s%C3%A9curit%C3%A9
+agadir,Talborjt,1550000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/a/7873767/appartement-en-vente-%C3%A0-talborjt-2-belles-chambres-meubl%C3%A9
+agadir,Haut Founty,1750000.0,91.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942713/appartement-%C3%A0-vendre-91-m%C2%B2-2-chambres-founti-agadir
+agadir,Hay Salam,1200000.0,95.0,4.0,2.0,https://www.mubawab.ma/fr/a/7942645/appartement-en-vente-%C3%A0-hay-salam-superficie-95-m%C2%B2-
+agadir,Hay Mohammadi,470000.0,56.0,3.0,1.0,https://www.mubawab.ma/fr/a/7942638/appartement-%C3%A0-l-achat-%C3%A0-hay-mohammadi-3-grandes-pi%C3%A8ces-
+agadir,Hay Mohammadi,700000.0,80.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942635/superbe-appartement-%C3%A0-vendre-%C3%A0-hay-mohammadi-superficie-80-m%C2%B2-avec-ascenseur-
+agadir,Hay Mohammadi,1100000.0,100.0,4.0,2.0,https://www.mubawab.ma/fr/a/7942632/bel-appartement-%C3%A0-vendre-%C3%A0-hay-mohammadi-4-grandes-pi%C3%A8ces-
+agadir,Hay Mohammadi,370000.0,52.0,3.0,1.0,https://www.mubawab.ma/fr/a/7942627/vente-d-un-bel-appartement-%C3%A0-hay-mohammadi-3-pi%C3%A8ces-
+agadir,Founti,2900000.0,153.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942311/bel-appartement-a-founty-153m2
+agadir,Ville Nouvelle,2500000.0,184.0,3.0,2.0,https://www.mubawab.ma/fr/a/7431282/duplex-enti%C3%A8rement-refait-%C3%A0-neuf-de-184m%C2%B2-%C3%A0-vendre-au-centre-ville
+agadir,Founti,2500000.0,125.0,3.0,2.0,https://www.mubawab.ma/fr/a/7926674/appartement-a-founty-agadir-bay-125m2
+agadir,Haut Founty,2500000.0,160.0,3.0,2.0,https://www.mubawab.ma/fr/a/7903025/bel-appartement-160m2-moderne-neuf-a-haut-founty
+agadir,Haut Founty,1250000.0,105.0,2.0,1.0,https://www.mubawab.ma/fr/a/7703295/bel-appartement-de-110m%C2%B2-bien-fini-%C3%A0-vendre-%C3%A0-haut-founty
+agadir,Secteur Touristique,2950000.0,128.0,2.0,2.0,https://www.mubawab.ma/fr/a/7941374/vente-d-un-bel-appartement-%C3%A0-secteur-touristique-2-chambres-agr%C3%A9ables-r%C3%A9sidence-avec-concierge-climatisation-g%C3%A9n%C3%A9rale
+agadir,Secteur Touristique,3600000.0,117.0,3.0,1.0,https://www.mubawab.ma/fr/a/7941351/appartement-en-vente-%C3%A0-secteur-touristique-plage-imi-ouaddar-grande-piscine-
+agadir,Hay Mohammadi,530000.0,54.0,2.0,1.0,https://www.mubawab.ma/fr/a/7941348/appartement-%C3%A0-l-achat-%C3%A0-hay-mohammadi-2-grandes-pi%C3%A8ces-bien-meubl%C3%A9-
+agadir,Hay Salam,650000.0,62.0,3.0,1.0,https://www.mubawab.ma/fr/a/7941344/appartement-%C3%A0-l-achat-%C3%A0-hay-salam-3-pi%C3%A8ces-confortables-meubl%C3%A9-
+agadir,Hay Mohammadi,1040000.0,87.0,4.0,2.0,https://www.mubawab.ma/fr/a/7940504/appartement-%C3%A0-vendre-%C3%A0-hay-mohammadi-surface-de-87-m%C2%B2-syst%C3%A8me-de-climatisation-
+agadir,Hay Mohammadi,650000.0,60.0,3.0,2.0,https://www.mubawab.ma/fr/a/7940500/vend-appartement-%C3%A0-hay-mohammadi-3-pi%C3%A8ces-
+agadir,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+agadir,Hay Dakhla,700000.0,87.0,2.0,1.0,https://www.mubawab.ma/fr/a/7936009/appartement-%C3%A0-vendre-87-m%C2%B2-2-chambres-hay-dakhla-agadir
+agadir,Hay Mohammadi,1550000.0,198.0,3.0,2.0,https://www.mubawab.ma/fr/a/7933185/appartement-%C3%A0-vendre-198-m%C2%B2-3-chambres-hay-mohammadi-agadir
+agadir,Hay Salam,1100000.0,114.0,3.0,2.0,https://www.mubawab.ma/fr/a/7932394/appartement-%C3%A0-vendre-114-m%C2%B2-3-chambres-hay-salam-agadir
+agadir,Hay Salam,630000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7932398/appartement-%C3%A0-vendre-65-m%C2%B2-2-chambres-hay-salam-agadir
+agadir,Hay Dakhla,750000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7932390/appartement-%C3%A0-vendre-80-m%C2%B2-2-chambres-hay-dakhla-agadir
+agadir,Hay Salam,620000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7932397/appartement-%C3%A0-vendre-65-m%C2%B2-2-chambres-hay-salam-agadir
+agadir,Hay Massira,1750000.0,175.0,3.0,2.0,https://www.mubawab.ma/fr/a/7932393/appartement-%C3%A0-vendre-175-m%C2%B2-3-chambres-hay-massira-agadir
+agadir,Tilila,750000.0,82.0,2.0,1.0,https://www.mubawab.ma/fr/a/7939156/appartement-%C3%A0-vendre-82-m%C2%B2-2-chambres-tilila-agadir
+agadir,Hay Mohammadi,950000.0,91.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939157/appartement-%C3%A0-vendre-91-m%C2%B2-2-chambres-hay-mohammadi-agadir
+agadir,Haut Founty,3700000.0,134.0,4.0,2.0,https://www.mubawab.ma/fr/a/7940208/maison-avec-jardin-pr%C3%A8s-de-marjane-agadir
+agadir,Hay Mohammadi,680000.0,58.0,2.0,1.0,https://www.mubawab.ma/fr/a/7932167/appartement-3-pi%C3%A8ces-hay-mohammadi
+agadir,Riad Salam,1500000.0,94.0,3.0,2.0,https://www.mubawab.ma/fr/a/7865140/bel-appartement-de-3-chambres-au-jardin-d-agadir
+agadir,Founti,1600000.0,88.0,2.0,2.0,https://www.mubawab.ma/fr/a/7940018/appartement-%C3%A0-vendre-%C3%A0-founti-projet-agadir-bay-r%C3%A9sidence-s%C3%A9curis%C3%A9e
+agadir,Hay Salam,860000.0,81.0,2.0,1.0,https://www.mubawab.ma/fr/a/7881952/vente-d-un-appartement-meubl%C3%A9
+agadir,Tilila,840000.0,78.0,3.0,2.0,https://www.mubawab.ma/fr/a/7939908/vend-appartement-%C3%A0-tilila-3-grandes-pi%C3%A8ces-avec-ascenseur-
+agadir,Hay Houda,800000.0,93.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939880/appartement-%C3%A0-vendre-%C3%A0-hay-lhouda
+agadir,Hay Mohammadi,1200000.0,86.0,3.0,2.0,https://www.mubawab.ma/fr/a/7939865/bel-appartement-meubl%C3%A9-%C3%A0-vendre
+agadir,Secteur Touristique,3400000.0,146.0,3.0,2.0,https://www.mubawab.ma/fr/a/7913543/vend-appartement-%C3%A0-secteur-touristique-8-pi%C3%A8ces-bien-meubl%C3%A9
+agadir,Founti,1700000.0,89.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939535/a-vendre-luxe-appartement-agadir-bay-founty
+agadir,Cité Adrar,350000.0,52.0,3.0,1.0,https://www.mubawab.ma/fr/a/7939482/bel-appartement-%C3%A0-vendre-%C3%A0-cit%C3%A9-adrar-surface-de-52-m%C2%B2-
+agadir,Zone Industrielle Agadir,1357000.0,192.0,2.0,2.0,https://www.mubawab.ma/fr/a/7649346/tr%C3%A8s-belle-appartement-%C3%A0-vendre-au-rue-almokaouama
+agadir,Taddart Anza,500000.0,100.0,4.0,1.0,https://www.mubawab.ma/fr/a/7939082/appartement-%C3%A0-l-achat-%C3%A0-taddart-anza-surface-totale-100-m%C2%B2-
+agadir,Abattoirs,900000.0,100.0,4.0,1.0,https://www.mubawab.ma/fr/a/7939079/superbe-appartement-%C3%A0-vendre-%C3%A0-abattoirs-4-pi%C3%A8ces-confortables-avec-ascenseur-
+agadir,Tilila,380000.0,52.0,3.0,1.0,https://www.mubawab.ma/fr/a/7938783/appartement-%C3%A0-vendre-%C3%A0-tilila-3-grandes-pi%C3%A8ces-
+agadir,Hay Salam,560000.0,52.0,3.0,1.0,https://www.mubawab.ma/fr/a/7938463/appartement-en-vente-%C3%A0-hay-salam-3-grandes-pi%C3%A8ces-meubl%C3%A9-
+agadir,Hay Salam,680000.0,64.0,2.0,1.0,https://www.mubawab.ma/fr/a/7938380/vend-magnifique-t3-meubl%C3%A9-quartier-tr%C3%A8s-dynamique
+agadir,Hay Mohammadi,1100000.0,96.0,3.0,2.0,https://www.mubawab.ma/fr/a/7938272/appartement-%C3%A0-l-achat-%C3%A0-hay-mohammadi-3-grandes-pi%C3%A8ces-grande-piscine-
+agadir,Hay Mohammadi,960000.0,96.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937939/bel-appartement-%C3%A0-islane-vue-sur-piscine
+agadir,Port,2100000.0,124.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937274/appartement-%C3%A0-vendre-marina-agadir
+agadir,Boutchakat,1260000.0,96.0,3.0,2.0,https://www.mubawab.ma/fr/a/7937249/superbe-appartement-%C3%A0-vendre-%C3%A0-boutchakat-3-chambres-agr%C3%A9ables-avec-ascenseur-et-terrasse
+agadir,Port,2200000.0,130.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937237/bel-appartement-%C3%A0-vendre-%C3%A0-port-2-chambres-agr%C3%A9ables-bien-meubl%C3%A9-
+kénitra,Centre,630000.0,56.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7831257/appartement-en-vente-%C3%A0-mehdia-1-chambre
+kénitra,Centre,642000.0,45.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7831263/superbe-appartement-%C3%A0-vendre-%C3%A0-mehdia-surface-de-45-m%C2%B2
+kénitra,Centre,1280000.0,82.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7831258/appartement-%C3%A0-vendre-%C3%A0-mehdia-2-belles-chambres
+kénitra,Centre,630000.0,56.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7770943/appartements-et-studios-de-standing-%C3%A0-plage-mehdia
+kénitra,Mimosas,645000.0,82.0,2.0,1.0,https://www.mubawab.ma/fr/a/6258975/appartement-f3-%E2%80%93-mimosas-%E2%80%93-kenitra
+kénitra,Centre,1130000.0,120.0,3.0,2.0,https://www.mubawab.ma/fr/a/7913896/appartement-%C3%A0-vendre-3-min-%C3%A0-la-gare
+kénitra,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+kénitra,Oulad Wjih,410000.0,90.0,2.0,1.0,https://www.mubawab.ma/fr/a/7906989/appartement-90-m%C2%B2-%C3%A0-bon-prix-alliance
+kénitra,Centre,642000.0,45.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7831262/superbe-appartement-%C3%A0-vendre-%C3%A0-mehdia-superficie-45-m%C2%B2
+kénitra,,,,,,https://www.mubawab.ma/fr/p/3398/r%C3%A9sidence-yasmine-temara
+kénitra,Bir Rami Est,720000.0,200.0,4.0,3.0,https://www.mubawab.ma/fr/a/7883574/duplex-200m%C2%B2-quartier-bir-rami-kenitra
+kénitra,Centre,1280000.0,82.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7831259/vend-appartement-%C3%A0-mehdia-2-chambres
+kénitra,Centre,520000.0,37.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7831261/appartement-%C3%A0-vendre-%C3%A0-mehdia-2-belles-chambres
+kénitra,Maghrib Arabi,699990.0,108.0,3.0,2.0,https://www.mubawab.ma/fr/a/7937455/appartement-tr%C3%A8s-ensoleill%C3%A9e
+kénitra,Val Fleuri,650000.0,73.0,2.0,2.0,https://www.mubawab.ma/fr/a/7848483/superbe-appartement-%C3%A0-vendre-%C3%A0-val-fleury-k%C3%A9nitra
+kénitra,El Hadadda,760000.0,71.0,2.0,2.0,https://www.mubawab.ma/fr/a/7839369/appartement-%C3%A0-vendre-%C3%A0-el-hadadda-2-grandes-pi%C3%A8ces-prestation-de-conciergerie-air-conditionn%C3%A9
+kénitra,La Ville Haute,790000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/a/7945070/appartement-%C3%A0-vendre-%C3%A0-la-ville-haute-kenitra
+kénitra,Centre,560000.0,45.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7864591/studio-haut-standing
+kénitra,Oulad Wjih,490000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7921330/appartement-au-quartier-le-vallon-%C3%A0-un-bon-prix
+kénitra,Oulad Wjih,450000.0,76.0,2.0,2.0,https://www.mubawab.ma/fr/a/7900086/appartements-76-m%C2%B2-%C3%A0-bon-prix-alliance-mehdia
+kénitra,Centre,520000.0,37.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7831260/superbe-appartement-%C3%A0-vendre-%C3%A0-mehdia-surface-totale-37-m%C2%B2
+kénitra,Bir Rami Ouest,500000.0,69.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944665/appartement-%C3%A0-vendre
+kénitra,Mimosas,950000.0,123.0,3.0,1.0,https://www.mubawab.ma/fr/a/7813146/appartement-%C3%A0-vendre-situ%C3%A9-%C3%A0-mimosas
+kénitra,Ismalia,620000.0,110.0,3.0,1.0,https://www.mubawab.ma/fr/a/7941382/appart-a-vendre-ismailia-kenitra
+kénitra,El Hadadda,225000.0,34.0,1.0,1.0,https://www.mubawab.ma/fr/a/7943788/studio-%C3%A0-vendre-heddada
+kénitra,Oulad Wjih,540000.0,68.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943366/bel-appartement-%C3%A0-vendre-%C3%A0-oulad-wjih-surface-de-68-m%C2%B2-cuisine-enti%C3%A8rement-%C3%A9quip%C3%A9e
+kénitra,Oulad Wjih,350000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7943351/appartement-en-vente-%C3%A0-oulad-wjih-2-belles-chambres-parking-et-terrasse
+kénitra,Centre,800000.0,90.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937050/appartement-%C3%A0-vendre-situ%C3%A9-au-centre-ville
+kénitra,Centre,800000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/a/7919527/appartement-%C3%A0-vendre-situ%C3%A9-au-centre-ville
+kénitra,La Ville Haute,1200000.0,174.0,3.0,2.0,https://www.mubawab.ma/fr/a/7406066/duplex-de-174m%C2%B2-a-vendre-situ%C3%A9-%C3%A0-la-ville-haute
+kénitra,Ismalia,430000.0,85.0,2.0,1.0,https://www.mubawab.ma/fr/a/7679075/appartement-en-vente-%C3%A0-k%C3%A9nitra
+kénitra,Mimosas,860000.0,112.0,3.0,2.0,https://www.mubawab.ma/fr/a/7919949/appartement-%C3%A0-vendre-bien-situ%C3%A9
+kénitra,Val Fleuri,620000.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/a/7804994/vente-d%E2%80%99un-appartement-de-87m%C2%B2-val-fleury-kenitra
+kénitra,Bir Rami Est,630000.0,91.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942628/appartement-2-chambres
+kénitra,Bir Rami Ouest,660000.0,95.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942626/appartement-2-chambres-salon
+kénitra,Bir Rami Ouest,850000.0,130.0,3.0,3.0,https://www.mubawab.ma/fr/a/7942394/appartement-orientation-sud-avec-balcon
+kénitra,Centre,980000.0,105.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942387/superbe-appartement-%C3%A0-vendre-en-centre-3-chambres-agr%C3%A9ables-parking-et-terrasse
+kénitra,Centre,1060000.0,103.0,3.0,2.0,https://www.mubawab.ma/fr/a/7929256/bel-appartement-%C3%A0-vendre-situ%C3%A9-au-centre-ville
+kénitra,Val Fleuri,640000.0,55.0,1.0,1.0,https://www.mubawab.ma/fr/a/7942202/appartement-%C3%A0-l-achat-%C3%A0-val-fleuri-1-belle-chambre-porte-s%C3%A9curis%C3%A9e-et-chauffage-central-
+kénitra,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+kénitra,Centre,1300000.0,200.0,3.0,2.0,https://www.mubawab.ma/fr/a/7941577/vente-d%E2%80%99un-appartement-spacieux-et-cosy-de-200m%C2%B2-centre-ville
+kénitra,Centre,540000.0,85.0,2.0,1.0,https://www.mubawab.ma/fr/a/7936723/appartement-en-vente-en-centre-2-belles-chambres-porte-blind%C3%A9e-salon-marocain
+kénitra,,,,,,https://www.mubawab.ma/fr/p/3603/r%C3%A9sidence-ferm%C3%A9e-de-villas-isol%C3%A9es-18m-avenue
+kénitra,Bir Rami Ouest,800000.0,120.0,3.0,3.0,https://www.mubawab.ma/fr/a/7941367/appartement-%C3%A0-vendre
+kénitra,Centre,680000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/a/7941327/appartement-lux-%C3%A0-k%C3%A9nitra
+kénitra,Bir Rami Ouest,700000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/a/7941314/appartement-%C3%A0-vendre
+kénitra,Bir Rami Est,430000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7851570/appartements-%C3%A0-vendre-situ%C3%A9-au-quartier-bir-rami
+kénitra,Bir Rami Ouest,600000.0,86.0,2.0,2.0,https://www.mubawab.ma/fr/a/7941157/appartement-2-chambres-salon-86m2
+kénitra,El Hadadda,370000.0,75.0,1.0,1.0,https://www.mubawab.ma/fr/a/7940821/appt-a-vendre-entre-haouzia-et-hedada
+kénitra,Oulad Wjih,560000.0,80.0,2.0,2.0,https://www.mubawab.ma/fr/a/7896933/appartement-2-fa%C3%A7ades-80-m%C2%B2-alliances-darna
+kénitra,Maamora,1600000.0,151.0,3.0,2.0,https://www.mubawab.ma/fr/a/7940642/luxueux-appartement-%C3%A0-vendre-%C3%A0-k%C3%A9nitra-%C3%A0-maamora
+kénitra,Maamora,900000.0,127.0,2.0,1.0,https://www.mubawab.ma/fr/a/7940423/vente-appartement-de-127m%C2%B2-%C3%A0-maamora-k%C3%A9nitra
+kénitra,Maghrib Arabi,1800000.0,94.0,4.0,2.0,https://www.mubawab.ma/fr/a/7911601/maison-%C3%A0-vendre-situ%C3%A9e-au-quartier-maghrib-arabi
+kénitra,Maghrib Arabi,480000.0,73.0,2.0,1.0,https://www.mubawab.ma/fr/a/7853945/appartement-%C3%A0-vendre-situ%C3%A9-%C3%A0-maghrib-arabi
+kénitra,Oulad Wjih,590000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/a/7889960/appartement-100-m%C2%B2-2-fa%C3%A7ades-double-voie-alliance
+kénitra,Oulad Wjih,680000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/a/7907792/appart-100-m%C2%B2-sans-vis-%C3%A0-vis-avec-ascenseur-mehdia
+kénitra,Oulad Wjih,860000.0,180.0,4.0,3.0,https://www.mubawab.ma/fr/a/7927446/duplex-180-m%C2%B2-haut-de-gamme-alliance-mehdia
+kénitra,Oulad Wjih,750000.0,108.0,3.0,2.0,https://www.mubawab.ma/fr/a/7927283/appart-2-fa%C3%A7ades-108-m%C2%B2-%C3%A0-c%C3%B4t%C3%A9-des-villas-alliance
+kénitra,Oulad Wjih,860000.0,150.0,4.0,3.0,https://www.mubawab.ma/fr/a/7904426/magnifique-appart-4-chambres-150-m%C2%B2-mehdia
+kénitra,Oulad Wjih,795000.0,140.0,3.0,2.0,https://www.mubawab.ma/fr/a/7884279/appartement-de-luxe-140-alliance-mahdia-kenitra
+kénitra,Oulad Wjih,560000.0,90.0,3.0,2.0,https://www.mubawab.ma/fr/a/7899048/appartement-3-chambres-meilleur-emplacement
+kénitra,El Fath,480000.0,115.0,3.0,1.0,https://www.mubawab.ma/fr/a/7940054/appartement-%C3%A0-vendre-au-premier-%C3%A9tage-2-fa%C3%A7ades
+kénitra,La Ville Haute,800000.0,94.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939803/bel-appartement-%C3%A0-vendre-%C3%A0-la-ville-haute-2-chambres-agr%C3%A9ables-prestation-de-conciergerie
+kénitra,Mimosas,1350000.0,156.0,3.0,2.0,https://www.mubawab.ma/fr/a/7939528/appartement-%C3%A0-vendre-153-m%C2%B2-%C3%A0-mimosas-k%C3%A9nitra
+kénitra,Maamora,1240000.0,133.0,3.0,3.0,https://www.mubawab.ma/fr/a/7939294/vente-appartement-fa%C3%A7ade-%C3%A0-maamora-k%C3%A9nitra
+kénitra,Oulad Wjih,540000.0,68.0,2.0,1.0,https://www.mubawab.ma/fr/a/7939094/superbe-appartement-%C3%A0-vendre-%C3%A0-le-valon-2-chambres-agr%C3%A9ables-cuisine-enti%C3%A8rement-%C3%A9quip%C3%A9e
+kénitra,Mimosas,630000.0,77.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937375/appartement-neuf-%C3%A0-vendre-%C3%A0-k%C3%A9nitra-%C3%A0-mimosa
+kénitra,Mimosas,920000.0,105.0,3.0,1.0,https://www.mubawab.ma/fr/a/7936444/appartement-mimousa-kenitra
+kénitra,Bir Rami Ouest,700000.0,122.0,2.0,1.0,https://www.mubawab.ma/fr/a/7936581/appartement-%C3%A0-l-achat-%C3%A0-bir-rami-ouest-2-pi%C3%A8ces
+kénitra,La Ville Haute,600000.0,88.0,2.0,2.0,https://www.mubawab.ma/fr/a/7743345/superbe-appartement-%C3%A0-vendre-%C3%A0-la-ville-haute-2-chambres-agr%C3%A9ables-salon-traditionnel-antenne-parabolique-g%C3%A9n%C3%A9rale
+kénitra,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+kénitra,Maamora,1950000.0,235.0,4.0,2.0,https://www.mubawab.ma/fr/a/7935957/appartement-%C3%A0-vendre-%C3%A0-maamora-surface-totale-235-m%C2%B2-bien-meubl%C3%A9
+kénitra,Mimosas,1180000.0,142.0,3.0,2.0,https://www.mubawab.ma/fr/a/7935586/spacieux-appartement-%C3%A0-vendre-%C3%A0-mimosas-kenitra
+kénitra,,,,,,https://www.mubawab.ma/fr/p/3398/r%C3%A9sidence-yasmine-temara
+kénitra,Centre,830000.0,105.0,3.0,2.0,https://www.mubawab.ma/fr/a/7935539/appartement-%C3%A0-vendre-au-centre-ville-k%C3%A9nitra
+kénitra,Maamora,1250000.0,178.0,3.0,1.0,https://www.mubawab.ma/fr/a/7307291/appartement-%C3%A0-k%C3%A9nitra
+kénitra,La Ville Haute,680000.0,85.0,2.0,1.0,https://www.mubawab.ma/fr/a/7369276/appartement-%C3%A0-k%C3%A9nitra
+kénitra,Maamora,1350000.0,148.0,3.0,2.0,https://www.mubawab.ma/fr/a/7307344/vente-d%E2%80%99un-duplex-cosy-de-148m%C2%B2-renov%C3%A9
+kénitra,Maamora,830000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7679195/appartement-%C3%A0-k%C3%A9nitra
+kénitra,Mimosas,1650000.0,160.0,4.0,2.0,https://www.mubawab.ma/fr/a/7307327/vente-d%E2%80%99un-tr%C3%A8s-bel-appartement-de-166m%C2%B2-au-quartier-mimosas
+kénitra,Mimosas,1180000.0,135.0,3.0,2.0,https://www.mubawab.ma/fr/a/7924561/%C3%A0-vendre-appartement-lumineux-au-premier-%C3%A9tage-%C3%A0-k%C3%A9nitra-mimosas-kenitra
+kénitra,Mimosas,1050000.0,139.0,3.0,1.0,https://www.mubawab.ma/fr/a/7934265/appartement-spacieux-de-139m%C2%B2-au-quartier-mimosa
+kénitra,Mimosas,1200000.0,132.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934081/vente-appartement-fa%C3%A7ade-au-centre-ville-k%C3%A9nitra
+kénitra,Mimosas,1050000.0,112.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934027/haute-standing-%C3%A0-vendre
+kénitra,Centre,1000000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7796568/vente-d%E2%80%99un-appartement-cosy-de-80m%C2%B2
+kénitra,La Ville Haute,750000.0,79.0,3.0,1.0,https://www.mubawab.ma/fr/a/7907680/%C3%A0-vendre-appartement-lumineux-au-premier-%C3%A9tage-%C3%A0-k%C3%A9nitra-quartier-la-ville-haute-kenitra
+kénitra,La Ville Haute,950000.0,121.0,3.0,1.0,https://www.mubawab.ma/fr/a/7715203/appartement-%C3%A0-k%C3%A9nitra
+kénitra,Maghrib Arabi,660000.0,96.0,3.0,1.0,https://www.mubawab.ma/fr/a/7933473/appartement-2-fa%C3%A7ades-94-m%C2%B2-maghrib-arabi
+kénitra,Maamora,1600000.0,197.0,3.0,2.0,https://www.mubawab.ma/fr/a/7896474/tr%C3%A8s-bel-appartement-ensoleille-avec-terrasse
+kénitra,Maamora,1290000.0,120.0,2.0,2.0,https://www.mubawab.ma/fr/a/7860171/appartement-d-exception-avec-belle-terrasse
+kénitra,Maamora,1180000.0,124.0,3.0,2.0,https://www.mubawab.ma/fr/a/7406557/bel-appartement-%C3%A0-vendre-pr%C3%AAt-de-la-gare
+kénitra,Maamora,1000000.0,102.0,3.0,2.0,https://www.mubawab.ma/fr/a/7932905/bel-appartement-proche-de-la-gare-a-vendre
+kénitra,Maghrib Arabi,490000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7781839/appartements-neufs-a-vendre-a-maghrib-arabi
+kénitra,Centre,560000.0,65.0,2.0,2.0,https://www.mubawab.ma/fr/a/7932929/vente-appartement-meubl%C3%A9-pr%C3%A9s-de-la-gare-k%C3%A9nitra
+kénitra,Centre,1500000.0,288.0,4.0,2.0,https://www.mubawab.ma/fr/a/7778206/appartement-a-vendre-4-ch-centre-kenitra-v4402
+kénitra,Centre,2750000.0,260.0,3.0,3.0,https://www.mubawab.ma/fr/a/7776820/appartement-3-ch-a-vendre-mimosas-kenitra-v4400
+kénitra,Centre,995000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/a/7685705/appartement-3-ch-a-vendre-kenitra-centre-balzac
+kénitra,Mimosas,2500000.0,255.0,3.0,2.0,https://www.mubawab.ma/fr/a/7661460/a-vendre-appartement-3-ch-kenitra-mimosas
+kénitra,Centre,1350000.0,141.0,3.0,2.0,https://www.mubawab.ma/fr/a/7928055/appartement-3-ch-a-vendre-centre-kenitra-v4214
+kénitra,Mimosas,680000.0,68.0,2.0,2.0,https://www.mubawab.ma/fr/a/7922077/appartement-%C3%A0-l-achat-%C3%A0-mimosas-2-belles-chambres-prestation-de-conciergerie-air-conditionn%C3%A9-
+fès,Bourmana,1200000.0,205.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934284/appartement-205-m2-fez-maroc
+fès,Route Immouzer,1500000.0,224.0,3.0,3.0,https://www.mubawab.ma/fr/a/7908926/duplex-appartement-1er-et-2%C3%A8me-%C3%A9tage
+fès,Route Immouzer,890000.0,110.0,3.0,3.0,https://www.mubawab.ma/fr/a/7865718/bel-appartement-%C3%A0-vendre-%C3%A0-route-immouzer-3-belles-chambres-parking-et-ascenseur-
+fès,Mont Fleuri,230000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944745/appartement-au-voisinage-de-tous
+fès,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+fès,Narjis,460000.0,75.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944605/superbe-appartement-%C3%A0-vendre-%C3%A0-narjis-surface-totale-75-m%C2%B2
+fès,Quartier Oued Fes,330000.0,70.0,2.0,2.0,https://www.mubawab.ma/fr/a/7943716/superbe-appartement-%C3%A0-vendre-%C3%A0-quartier-oued-fes-2-belles-chambres-salon-marocain-traditionnel
+fès,Route ain Chkaf,570000.0,94.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942669/vente-d-un-bel-appartement-%C3%A0-route-ain-chkaf-3-pi%C3%A8ces-confortables-ascenseur-et-terrasse-
+fès,Route ain Chkaf,570000.0,90.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942633/appartement-%C3%A0-l-achat-%C3%A0-route-ain-chkaf-3-pi%C3%A8ces-confortables-salon-typique-marocain-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+fès,Route ain Chkaf,570000.0,90.0,3.0,2.0,https://www.mubawab.ma/fr/a/7942623/appartement-en-vente-%C3%A0-route-ain-chkaf-3-pi%C3%A8ces-salon-typique-marocain-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+fès,Mont Fleuri,520000.0,95.0,2.0,2.0,https://www.mubawab.ma/fr/a/7922550/vente-d-un-bel-appartement-%C3%A0-mont-fleuri-2-pi%C3%A8ces-confortables-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+fès,Hay Al Azhar,950000.0,123.0,3.0,2.0,https://www.mubawab.ma/fr/a/7941968/appartement-%C3%A0-vendre-123m2-hay-al-azhar
+fès,Route ain Chkaf,560000.0,94.0,3.0,2.0,https://www.mubawab.ma/fr/a/7931408/appartement-%C3%A0-l-achat-%C3%A0-route-ain-chkaf-surface-totale-94-m%C2%B2-salon-typique-marocain-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+fès,Route se Sefrou,720000.0,153.0,3.0,1.0,https://www.mubawab.ma/fr/a/7941406/appartement-%C3%A0-vendre-153m2-premier-%C3%A9tage
+fès,Route se Sefrou,350000.0,70.0,2.0,2.0,https://www.mubawab.ma/fr/a/7941332/bel-appartement-%C3%A0-vendre
+fès,Centre,550000.0,70.0,2.0,2.0,https://www.mubawab.ma/fr/a/7940680/centre-ville
+fès,Route Immouzer,1100000.0,130.0,3.0,3.0,https://www.mubawab.ma/fr/a/7940524/duplex-moderne-%C3%A0-vendre-route-immouzzer
+fès,Narjis,580000.0,120.0,4.0,2.0,https://www.mubawab.ma/fr/a/7939899/superbe-appartement-%C3%A0-vendre-%C3%A0-narjis-9-grandes-pi%C3%A8ces-bien-meubl%C3%A9
+fès,Centre,680000.0,100.0,2.0,1.0,https://www.mubawab.ma/fr/a/7939656/appartement-adarissa
+fès,Talaa,600000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/a/7938964/vend-appartement-%C3%A0-talaa-superficie-100-m%C2%B2-salon-traditionnel-marocain-
+fès,Route ain Chkaf,690000.0,103.0,3.0,2.0,https://www.mubawab.ma/fr/a/7889546/appartement-103m
+fès,Al Karaouiyine,550000.0,98.0,3.0,2.0,https://www.mubawab.ma/fr/a/7938054/appartement-%C3%A0-l-achat-%C3%A0-al-karaouiyine-3-chambres-salon-marocain-
+fès,Talaa,500000.0,120.0,2.0,1.0,https://www.mubawab.ma/fr/a/7937422/a-house-in-the-old-city-of-fes-%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D9%82%D8%A9-%D8%A8%D9%81%D8%A7%D8%B3
+fès,Narjis,690000.0,150.0,3.0,1.0,https://www.mubawab.ma/fr/a/7937349/appartement-%C3%A0-vendre-grand-rond-point
+fès,Route Immouzer,790000.0,116.0,3.0,3.0,https://www.mubawab.ma/fr/a/7882667/duplex-haut-standing-style-riad
+fès,Nouvelle Ville,660000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/a/7936491/appartement-haut-standing-a-vendre-centre-ville
+fès,Narjis,520000.0,110.0,3.0,2.0,https://www.mubawab.ma/fr/a/7936459/bel-appartement-%C3%A0-vendre-%C3%A0-narjis-5-pi%C3%A8ces-confortables
+fès,Al Adarissa,950000.0,137.0,3.0,2.0,https://www.mubawab.ma/fr/a/7843853/superbe-appartement-%C3%A0-vendre-%C3%A0-al-adarissa-pr%C3%A8s-de-la-mosqu%C3%A9e-al-baraka
+fès,Nouvelle Ville,1290000.0,171.0,3.0,2.0,https://www.mubawab.ma/fr/a/7936027/belle-appartement-au-plein-centre-ville
+fès,Ain Amiyer,640000.0,91.0,3.0,2.0,https://www.mubawab.ma/fr/a/7935734/appartement-neuf-route-ain-chkaf
+fès,Ain Amiyer,550000.0,86.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934917/vend-appartement-%C3%A0-ain-amiyer-rte-ain-chkef-surface-de-86-m%C2%B2-antenne-parabolique-et-s%C3%A9curit%C3%A9
+fès,Nouvelle Ville,2000000.0,266.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934488/apparemment-a-vendre-%C3%A0-fes
+fès,Tghat,470000.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/a/7934456/superbe-appartement-%C3%A0-vendre-%C3%A0-tghat-surface-totale-97-m%C2%B2-fen%C3%AAtres-avec-double-vitrage-et-porte-blind%C3%A9e
+fès,Mont Fleuri,550000.0,96.0,3.0,1.0,https://www.mubawab.ma/fr/a/7910621/bel-appartement-avec-un-secteur-tr%C3%A8s-magnifique-1
+fès,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+fès,Champ de course,970000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/a/7932626/residence-les-colombes-appartements-haut-standing
+fès,Mont Fleuri,500000.0,95.0,2.0,1.0,https://www.mubawab.ma/fr/a/7933623/appartement-%C3%A0-vendre-%C3%A0-mont-fleuri-2-chambres-
+fès,Hay Dalia,650000.0,139.0,3.0,1.0,https://www.mubawab.ma/fr/a/7933352/vend-appartement-%C3%A0-hay-dalia-surface-de-139-m%C2%B2-porte-blind%C3%A9e-et-parabole
+fès,Centre,850000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/a/7933201/appartement-titr%C3%A9
+fès,Oliverie,170000.0,47.0,2.0,1.0,https://www.mubawab.ma/fr/a/7873312/appartement-%C3%A0-vendre-%C3%A0-oliverie-3-pi%C3%A8ces
+fès,Route ain Chkaf,310000.0,54.0,2.0,2.0,https://www.mubawab.ma/fr/a/7873301/superbe-appartement-%C3%A0-vendre-3-grandes-pi%C3%A8ces
+fès,Narjis,800000.0,145.0,3.0,1.0,https://www.mubawab.ma/fr/a/7394313/appartement-145-m2
+fès,Ain Amiyer,790000.0,113.0,3.0,2.0,https://www.mubawab.ma/fr/a/7915555/appt-113m%C2%B2-%C3%A0-vendre
+fès,Quartier Oued Fes,210000.0,76.0,2.0,1.0,https://www.mubawab.ma/fr/a/7930275/appartament-%C3%A0-vendre-ouad-f%C3%A8s-moulay-driss
+fès,Route se Sefrou,510000.0,96.0,3.0,2.0,https://www.mubawab.ma/fr/a/7910594/des-appartement-a-vendre-a-rout-sefro-fes
+fès,Route se Sefrou,700000.0,140.0,3.0,1.0,https://www.mubawab.ma/fr/a/7835187/appartement-%C3%A0-ne-pas-rater
+fès,Hay Riad,430000.0,96.0,3.0,2.0,https://www.mubawab.ma/fr/a/7914860/appart-meubl%C3%A9-au-rez-de-chauss%C3%A9-96-m2
+fès,Hay Al Azhar,520000.0,73.0,2.0,2.0,https://www.mubawab.ma/fr/a/7928875/magnifique-appt-de-73-m%C2%B2-lotissement-ghazali
+fès,Dokkarat,295000.0,64.0,2.0,1.0,https://www.mubawab.ma/fr/a/7928502/appartement-titr%C3%A9-%C3%A0-vendre-64m2-bon-%C3%A9tat
+fès,Dokkarat,360000.0,67.0,2.0,1.0,https://www.mubawab.ma/fr/a/7736566/vend-appartement-%C3%A0-dokkarat-1-pi%C3%A8ce-environnement-calme-avec-vue-sur-la-montagne-
+fès,Centre,1130000.0,119.0,3.0,2.0,https://www.mubawab.ma/fr/a/7927271/residence-mabrouka
+fès,Al Hadiqa,470000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/a/7926670/appartement-78m%C2%B2-%C3%A0-f%C3%A8s
+fès,Hay Lalla Soukaina,340000.0,84.0,4.0,2.0,https://www.mubawab.ma/fr/a/7925596/vente-d-un-bel-appartement-%C3%A0-hay-lalla-soukaina-surface-totale-84-m%C2%B2-antenne-parabolique-
+fès,Quartier Oued Fes,830000.0,175.0,3.0,3.0,https://www.mubawab.ma/fr/a/7735084/appartement-avendre-golf-oued-fes
+fès,Quartier Oued Fes,470000.0,106.0,3.0,3.0,https://www.mubawab.ma/fr/a/7925344/superbe-appartement-%C3%A0-vendre-%C3%A0-quartier-oued-fes-2-grandes-pi%C3%A8ces-porte-blind%C3%A9e-salon-marocain
+fès,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+fès,Quartier Oued Fes,430000.0,101.0,2.0,2.0,https://www.mubawab.ma/fr/a/7925332/bel-appartement-%C3%A0-vendre-%C3%A0-quartier-oued-fes-2-belles-chambres-salon-traditionnel-antenne-parabolique-g%C3%A9n%C3%A9rale
+fès,Hay Atlas,1100000.0,140.0,3.0,2.0,https://www.mubawab.ma/fr/a/7925316/vente-d-un-appartement-de-140m2-%C3%A0-hay-atlas-f%C3%A8s
+fès,Nouvelle Ville,650000.0,111.0,3.0,1.0,https://www.mubawab.ma/fr/a/7925042/appartement-%C3%A0-l-achat-en-plein-centre-ville-sans-vis-%C3%A0-vis
+fès,Route Immouzer,810000.0,129.0,2.0,2.0,https://www.mubawab.ma/fr/a/7877503/des-appartements-a-vendre-a-rout-imouzar-fes
+fès,Al Hadiqa,700000.0,126.0,3.0,2.0,https://www.mubawab.ma/fr/a/7886308/appartement-en-vente-%C3%A0-al-hadiqa-surface-totale-128-m%C2%B2-salon-typique-marocain-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+fès,Quartier Oued Fes,528000.0,96.0,3.0,2.0,https://www.mubawab.ma/fr/a/7830841/des-appartements-96-m-a-vendre-a-golf-ouad-fes-a
+fès,Champ de course,1100000.0,131.0,3.0,3.0,https://www.mubawab.ma/fr/a/7909361/appartement-%C3%A0-vendre-%C3%A0-champ-de-course-superficie-131-m%C2%B2-concierge-et-climatisation
+fès,Route de Meknes,55000.0,78.0,3.0,1.0,https://www.mubawab.ma/fr/a/7858854/appartement-en-vente-%C3%A0-route-de-meknes-surface-totale-78-m%C2%B2-salon-marocain-et-antenne-parabolique
+fès,Champ de course,870000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/a/7356986/vente-appartements-sur-plan-champs-de-course-fes
+fès,Hay Riad,240000.0,79.0,3.0,1.0,https://www.mubawab.ma/fr/a/7695611/appartement-%C3%A0-vendre-%C3%A0-hay-riad-surface-totale-79-m%C2%B2-belle-terrasse-
+fès,Hay Palestine,420000.0,85.0,1.0,1.0,https://www.mubawab.ma/fr/a/7920652/appartement-85-m%C2%B2-%C3%A0-f%C3%A8s
+fès,Ain Amiyer,800000.0,117.0,3.0,2.0,https://www.mubawab.ma/fr/a/7920440/appartement-%C3%A0-l-achat-%C3%A0-ain-amiyer-surface-de-117-m%C2%B2-salon-typique-marocain-r%C3%A9sidence-s%C3%A9curis%C3%A9e
+fès,Nouvelle Ville,750000.0,135.0,3.0,2.0,https://www.mubawab.ma/fr/a/7920215/appartement-en-vente-%C3%A0-fes-surface-de-135-m%C2%B2-concierge-et-climatisation
+fès,Hay Bensouda,330000.0,57.0,2.0,1.0,https://www.mubawab.ma/fr/a/7919737/appartement-%C3%A0-vendre
+fès,Route ain Chkaf,760000.0,115.0,3.0,2.0,https://www.mubawab.ma/fr/a/7918907/bel-appartement-%C3%A0-vendre-%C3%A0-route-ain-chkaf-surface-totale-115-m%C2%B2-ascenseur-et-terrasse-
+fès,Centre,1400000.0,149.0,3.0,3.0,https://www.mubawab.ma/fr/a/7916337/appartement-%C3%A0-vendre-140-mlion
+fès,Route ain Chkaf,760000.0,115.0,3.0,2.0,https://www.mubawab.ma/fr/a/7916012/excellent-appartement-%C3%A0-vendre-au-2eme-%C3%A9tage
+fès,Route se Sefrou,800000.0,166.0,4.0,4.0,https://www.mubawab.ma/fr/a/7906978/des-appartement-166-m2-a-vendre-a-rout-sefro-fes
+fès,Bourmana,450000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7784766/des-appartement-%C3%A0-vendre-45-m-a-bormana-fes
+fès,Route ain Chkaf,700000.0,90.0,3.0,2.0,https://www.mubawab.ma/fr/a/7857140/appartement-%C3%A0-vendre-%C3%A0-route-ain-chkaf-3-pi%C3%A8ces-confortables-four-
+fès,Zouagha,300000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/a/7914171/appartement-a-vendre
+fès,Quartier Oued Fes,280000.0,70.0,1.0,1.0,https://www.mubawab.ma/fr/a/7912048/bel-appt-confortable-%C3%A0-vendre
+fès,Route ain Chkaf,620000.0,114.0,3.0,3.0,https://www.mubawab.ma/fr/a/7911390/tr%C3%A8s-jolie-duplex-%C3%A0-vendre-meubl%C3%A9
+fès,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+fès,Zouagha,300000.0,65.0,2.0,2.0,https://www.mubawab.ma/fr/a/7911215/appartement-%C3%A0-l-achat-%C3%A0-bensouda-2-belles-chambres-salon-traditionnel-antenne-parabolique-g%C3%A9n%C3%A9rale
+fès,L'habitat,870000.0,146.0,3.0,3.0,https://www.mubawab.ma/fr/a/7910976/en-plein-centre-de-f%C3%A8s
+fès,Hay Gryou,471200.0,76.0,3.0,2.0,https://www.mubawab.ma/fr/a/7906533/%C3%A0-vendresans-interm%C3%A9diaire-aide-au-logement-dispo
+fès,Hay Fadela,500000.0,66.0,3.0,1.0,https://www.mubawab.ma/fr/a/7766029/apt-2%C3%A8me-%C3%A9tage-avec-ascenseur-%C3%A0-500m-de-blanco
+fès,Hay Tarik 1,700000.0,140.0,3.0,1.0,https://www.mubawab.ma/fr/a/7909153/appartement-%C3%A0-l-achat-%C3%A0-hay-tarik-1-3-chambres-agr%C3%A9ables-bien-meubl%C3%A9-
+fès,Nouvelle Ville,680000.0,110.0,3.0,2.0,https://www.mubawab.ma/fr/a/7908632/bel-appartement-%C3%A0-vendre-%C3%A0-f%C3%A8s-au-quartier-bouremanna
+fès,Mont Fleuri,450000.0,94.0,2.0,1.0,https://www.mubawab.ma/fr/a/7908473/appartement-en-vente-%C3%A0-mont-fleuri-superficie-94-m%C2%B2-antenne-parabolique
+fès,Route se Sefrou,620000.0,135.0,3.0,2.0,https://www.mubawab.ma/fr/a/7908227/vente-d-un-bel-appartement-%C3%A0-route-se-sefrou-surface-de-135-m%C2%B2-bien-meubl%C3%A9-
+fès,Route de Meknes,380000.0,85.0,2.0,2.0,https://www.mubawab.ma/fr/a/7842187/apparemment-au-rdc-oued-fes-permis-2023
+fès,Quartier Oued Fes,420000.0,75.0,2.0,2.0,https://www.mubawab.ma/fr/a/7908007/appartement-%C3%A0-vendre-au-1-er-%C3%A9tage-%C3%A0-oued-fes
+fès,Narjis,660000.0,131.0,3.0,2.0,https://www.mubawab.ma/fr/a/7907696/appartement-%C3%A0-vendre-narjis-b-fes
+fès,Bourmana,690000.0,93.0,3.0,1.0,https://www.mubawab.ma/fr/a/7907635/des-appartement-a-vendre-bidon-sams-a-bourman-fes
+fès,Quartier Oued Fes,380000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/a/7907570/rez-de-chauss%C3%A9e-%C3%A0-vendre-%C3%A0-quartier-oued-fes
+fès,Hay Al Qods,1300000.0,179.0,3.0,2.0,https://www.mubawab.ma/fr/a/7907298/appartement-%C3%A0-vendre-au-centre-ville-de-fes
+fès,Route ain Chkaf,440000.0,64.0,2.0,1.0,https://www.mubawab.ma/fr/a/7894487/appartements-%C3%A0-vendre-%C3%A0-partir-de-64-m%C2%B2-%C3%A0-f%C3%A8s
+fès,Route ain Chkaf,720000.0,109.0,3.0,2.0,https://www.mubawab.ma/fr/a/7906653/superbe-appartement-%C3%A0-vendre-%C3%A0-route-ain-chkaf-%C3%A0-c%C3%B4t%C3%A9-clinique-razi-%D8%B4%D9%82%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D8%A8%D8%B7%D8%B1%D9%8A%D9%82-%D8%B9%D9%8A%D9%86-%D8%B4%D9%82%D9%81-%D9%82%D8%B1%D8%A8-%D9%85%D8%B5%D8%AD%D8%A9-%D8%B1%D8%A7%D8%B2%D9%8A
+fès,Champ de course,1300000.0,136.0,3.0,3.0,https://www.mubawab.ma/fr/a/7906342/un-appartement-%C3%A0-vendre-%C3%A0-prestigia
+fès,Route ain Chkaf,690000.0,180.0,3.0,2.0,https://www.mubawab.ma/fr/a/7666280/appartement-duplex-route-ainchkef
+fès,Jnane Eddar,340000.0,130.0,3.0,1.0,https://www.mubawab.ma/fr/a/7904742/bel-appartement-%C3%A0-vendre-%C3%A0-jnane-eddar-surface-totale-130-m%C2%B2-salon-avec-d%C3%A9coration-marocaine-
+fès,Ain Amiyer,1200000.0,131.0,3.0,2.0,https://www.mubawab.ma/fr/a/7903641/appartements-%C3%A0-ain-chekf-road
+salé,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+salé,,,,,,https://www.mubawab.ma/fr/p/3398/r%C3%A9sidence-yasmine-temara
+salé,Sala el Jadida,990000.0,93.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937202/vente-appartement-93-m2-a-sala-al-jadida
+salé,Hay Chmaou,880000.0,74.0,2.0,2.0,https://www.mubawab.ma/fr/a/7734258/appartements-%C3%A0-vendre-%C3%A0-sale
+salé,Sala el Jadida,1230000.0,115.0,3.0,2.0,https://www.mubawab.ma/fr/a/7653235/%C3%A0-vendre-directement-par-le-propri%C3%A9taire-apt115m2
+salé,Pépinière,845000.0,79.0,2.0,2.0,https://www.mubawab.ma/fr/a/7944931/appartement-p%C3%A9pini%C3%A8re-sal%C3%A9
+salé,Mkinssia,1390000.0,103.0,2.0,2.0,https://www.mubawab.ma/fr/a/7931302/appartement-%C3%A0-vendre-%C3%A0-r%C3%A9sidence-al-amine-sale
+salé,Tabriquet,760000.0,77.0,2.0,2.0,https://www.mubawab.ma/fr/a/7943886/magnifique-appartement-de-77-m%C2%B2-avec-2-facades
+salé,Sala el Jadida,900000.0,80.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942765/tr%C3%A8s-bel-appart-presque-neuf-enti%C3%A8rement-r%C3%A9nov%C3%A9
+salé,Sala el Jadida,930000.0,81.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942341/appartement-neuf-%C3%A0-vendre-sur-sala-al-jadida
+salé,Sala el Jadida,1350000.0,76.0,2.0,2.0,https://www.mubawab.ma/fr/a/7939434/appartement-meubl%C3%A9-%C3%A0-vendre
+salé,Bab Al Bahr,3650000.0,152.0,2.0,3.0,https://www.mubawab.ma/fr/a/7941542/appartement-%C3%A0-vendre-de-152-0-m%C2%B2-%C3%A0-sal%C3%A9-bab-al-bahr
+salé,Ouled Moussa,395000.0,61.0,1.0,1.0,https://www.mubawab.ma/fr/a/7941359/appartement-61m2-a-sidi-moussa
+salé,Sala el Jadida,1150000.0,148.0,2.0,2.0,https://www.mubawab.ma/fr/a/7917519/grand-appartement-148-m2-%C3%A0-sala-al-jadida
+salé,Sidi Hajji,220000.0,37.0,2.0,1.0,https://www.mubawab.ma/fr/a/7939695/petit-appartement-%C3%A0-vendre
+salé,Sala el Jadida,1950000.0,140.0,3.0,2.0,https://www.mubawab.ma/fr/a/7924043/magnifique-appartement-neuf
+salé,Dyour Nejjar,850000.0,102.0,2.0,1.0,https://www.mubawab.ma/fr/a/7938988/belle-appartement-a-vendre
+salé,Sala el Jadida,1240000.0,134.0,3.0,2.0,https://www.mubawab.ma/fr/a/7938650/vente-spacieux-appartement-134-m2-a-sala-al-jadida
+salé,Sidi Hajji,800000.0,86.0,2.0,1.0,https://www.mubawab.ma/fr/a/7783941/appartement-en-vente-%C3%A0-sidi-hajji-3-chambres-ascenseur-et-terrasse-
+salé,Salé,840000.0,91.0,3.0,2.0,https://www.mubawab.ma/fr/a/7937723/appartement-%C3%A0-vendre-de-91-0-m%C2%B2-%C3%A0-sal%C3%A9-medina
+salé,Sala el Jadida,1400000.0,116.0,3.0,4.0,https://www.mubawab.ma/fr/a/7937652/appartement-%C3%A0-vendre-de-116-0-m%C2%B2-%C3%A0-sal%C3%A9-sala-el-jadida
+salé,Sala el Jadida,700000.0,93.0,3.0,2.0,https://www.mubawab.ma/fr/a/7937633/appartement-%C3%A0-vendre-de-93-0-m%C2%B2-%C3%A0-sal%C3%A9-sala-el-jadida
+salé,Salé,890000.0,96.0,2.0,1.0,https://www.mubawab.ma/fr/a/7937579/appartement-%C3%A0-vendre-de-96-0-m%C2%B2-%C3%A0-sal%C3%A9-abouab-sala
+salé,Mkinssia,1139000.0,86.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937525/appartement-%C3%A0-vendre-de-86-0-m%C2%B2-%C3%A0-sal%C3%A9-mkinssia
+salé,Bab Al Bahr,3600000.0,169.0,3.0,2.0,https://www.mubawab.ma/fr/a/7751760/vente-appartement-sal%C3%A9-la-marina
+salé,Mkinssia,1360000.0,103.0,2.0,2.0,https://www.mubawab.ma/fr/a/7921466/vente-bel-appartement-%C3%A0-sal%C3%A9-r%C3%A9sidence-piscine
+salé,Sala el Jadida,1480000.0,125.0,3.0,2.0,https://www.mubawab.ma/fr/a/7937187/vente-appartement-haut-standing-a-sala-al-jadida
+salé,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+salé,Bab Al Bahr,4950000.0,201.0,4.0,3.0,https://www.mubawab.ma/fr/a/7751846/vente-appartement-sal%C3%A9-la-marina
+salé,Bab Al Bahr,2800000.0,135.0,2.0,2.0,https://www.mubawab.ma/fr/a/7873128/vente-appartement-sal%C3%A9-la-marina
+salé,,,,,,https://www.mubawab.ma/fr/p/3603/r%C3%A9sidence-ferm%C3%A9e-de-villas-isol%C3%A9es-18m-avenue
+salé,Bab Al Bahr,2700000.0,127.0,3.0,2.0,https://www.mubawab.ma/fr/a/7926474/vente-appartement-sal%C3%A9-marina
+salé,Sidi Hajji,540000.0,86.0,2.0,1.0,https://www.mubawab.ma/fr/a/7402746/appt-%C3%A0-vendre-au-quartier-said-hajji-route-kenitra-sale
+salé,Hay Inbiat,330000.0,48.0,2.0,1.0,https://www.mubawab.ma/fr/a/7937206/appartement-a-vendre-%C3%A0-addoha-hadika
+salé,Bettana,800000.0,78.0,2.0,1.0,https://www.mubawab.ma/fr/a/7937147/vente-appartement-78-m2-a-bettana-sale
+salé,Hay Chmaou,600000.0,76.0,2.0,2.0,https://www.mubawab.ma/fr/a/7937135/appartement-%C3%A0-vendre
+salé,Salé,630000.0,84.0,2.0,2.0,https://www.mubawab.ma/fr/a/7898771/appartement-%C3%A0-vendre-de-84-0-m%C2%B2-%C3%A0-sal%C3%A9-said-hajji
+salé,Tabriquet,1125000.0,94.0,4.0,3.0,https://www.mubawab.ma/fr/a/7937001/appartement-%C3%A0-vendre-de-94-0-m%C2%B2-%C3%A0-sal%C3%A9-tabriquet
+salé,Hay Chmaou,400000.0,68.0,3.0,1.0,https://www.mubawab.ma/fr/a/7936707/appartement-proche-de-l%E2%80%99oc%C3%A9an
+salé,Sala el Jadida,810000.0,81.0,2.0,2.0,https://www.mubawab.ma/fr/a/7936698/appartement-%C3%A0-vendre-81-m%C2%B2-%C3%A0-sal%C3%A9
+salé,Hay Chmaou,600000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7658824/appartement-f3-70-m2-sale
+salé,Sidi Hajji,770000.0,98.0,2.0,2.0,https://www.mubawab.ma/fr/a/7711310/bel-appartement-de-98-m%C2%B2-%C3%A0-said-hajji
+salé,Sidi Hajji,930000.0,93.0,2.0,2.0,https://www.mubawab.ma/fr/a/7935144/appartement-%C3%A0-vendre-au-lot-sa%C3%AFd-hejji
+salé,Hay Chmaou,1080000.0,98.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7192892/appartement-de-98m%C2%B2-en-vente-la-perle-de-hay-chmaou
+salé,Hay Chmaou,1070000.0,98.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7192891/appartement-de-82m%C2%B2-en-vente-la-perle-de-hay-chmaou
+salé,Sakani,640000.0,79.0,2.0,2.0,https://www.mubawab.ma/fr/a/7933889/superbe-appartement-%C3%A0-vendre-%C3%A0-sal%C3%A9-bochok-2-chambre-ascenseur
+salé,Bab Al Bahr,3650000.0,136.0,2.0,3.0,https://www.mubawab.ma/fr/a/7933857/appartement-%C3%A0-vendre-marina-bouregrag
+salé,Mkinssia,9750000.0,117.0,2.0,2.0,https://www.mubawab.ma/fr/a/7733961/appartement-en-vente-%C3%A0-mkinssia-2-chambres
+salé,Sidi Hajji,7000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7925033/vente-d-un-bel-appartement-%C3%A0-sa%C3%AFd-hajji
+salé,Sidi Hajji,970000.0,96.0,2.0,2.0,https://www.mubawab.ma/fr/a/7830727/appartement-haut-standing
+salé,Hay Chmaou,900000.0,113.0,3.0,1.0,https://www.mubawab.ma/fr/a/7931321/vente-spacieux-appartement-a-hay-chemaou-sale
+salé,Bab Al Bahr,3650000.0,136.0,2.0,2.0,https://www.mubawab.ma/fr/a/7930237/appartement-marina-bouregreg
+salé,Hay Chmaou,705000.0,95.0,3.0,2.0,https://www.mubawab.ma/fr/a/7805727/apartement-a-vendre
+salé,Mkinssia,1390000.0,103.0,2.0,2.0,https://www.mubawab.ma/fr/a/7918940/vente-luxueux-appartement-pres-tram-dyar-sale
+salé,Sala el Jadida,1300000.0,119.0,3.0,3.0,https://www.mubawab.ma/fr/a/7791059/appartement-%C3%A0-vendre-%C3%A0-sala-el-jadida-3-grandes-pi%C3%A8ces-espaces-verts-et-ascenseur-
+salé,Hay Chmaou,460000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7928665/appartment-a-vendre
+salé,Salé,1370000.0,103.0,2.0,2.0,https://www.mubawab.ma/fr/a/7920225/vente-appartement-%C3%A0-sal%C3%A9
+salé,Hay Chmaou,1100000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7386277/appartement-%C3%A0-vendre-%C3%A0-hay-chmaou-superficie-100-m%C2%B2
+salé,Hay Chmaou,1070000.0,98.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7699543/appartement-en-vente-%C3%A0-hay-chmaou-3-chambres
+salé,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+salé,Hay Chmaou,900000.0,82.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7699529/vend-appartement-%C3%A0-hay-chmaou-2-belles-chambres
+salé,Hay Chmaou,1155000.0,105.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7699544/vend-appartement-%C3%A0-hay-chmaou-surface-de-98-m%C2%B2
+salé,,,,,,https://www.mubawab.ma/fr/p/3398/r%C3%A9sidence-yasmine-temara
+salé,Tabriquet,920000.0,86.0,3.0,2.0,https://www.mubawab.ma/fr/a/7839508/appartement-86-m%C2%B2-%C3%A0-sal%C3%A9-square
+salé,Bab Sebta,650000.0,84.0,2.0,1.0,https://www.mubawab.ma/fr/a/7479215/vente-exclusive-d-un-bel-appartement
+salé,Cherkaoui - Marzouka,450000.0,59.0,2.0,2.0,https://www.mubawab.ma/fr/a/7859946/appartement-a-vendre
+salé,Sidi Hajji,720000.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/a/7922357/appartement-%C3%A0-vendre-sa%C3%AFd-hajji-r%C3%A9sidence-atlantiq
+salé,Sidi Hajji,355000.0,53.0,2.0,1.0,https://www.mubawab.ma/fr/a/7927527/appartement-53m2-najah-1-%D8%B4%D9%82%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%AD
+salé,Sidi Hajji,700000.0,82.0,2.0,1.0,https://www.mubawab.ma/fr/a/7913419/appartement-%C3%A0-vendre-%C3%A0-sal%C3%A9
+salé,Medina,1400000.0,120.0,2.0,2.0,https://www.mubawab.ma/fr/a/7926287/superbe-appartement-%C3%A0-vendre-%C3%A0-medina-2-chambres-agr%C3%A9ables
+salé,Abouab Sala,750000.0,105.0,2.0,2.0,https://www.mubawab.ma/fr/a/7925592/jolie-appartement
+salé,Abouab Sala,230000.0,60.0,1.0,2.0,https://www.mubawab.ma/fr/a/7925455/abouab-sal%C3%A9
+salé,Abouab Sala,320000.0,50.0,2.0,1.0,https://www.mubawab.ma/fr/a/7925070/joli-appartement-a-vendre-a-abwab-sale
+salé,Sidi Hajji,220000.0,48.0,2.0,1.0,https://www.mubawab.ma/fr/a/7924777/appartement-en-vente-%C3%A0-sidi-hajji-2-pi%C3%A8ces-
+salé,Bab Al Bahr,2500000.0,108.0,2.0,2.0,https://www.mubawab.ma/fr/a/7884539/a-vendre-%C3%A0-marina-sal%C3%A9-appartement-avec-terrasse
+salé,Horria,520000.0,78.0,2.0,1.0,https://www.mubawab.ma/fr/a/7484889/joli-appart-bien-ensoleill%C3%A9-et-proche-de-tout
+salé,Sala el Jadida,12700.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/a/7923892/appartement-a-vendre-plein-sud
+salé,Sala el Jadida,1058000.0,88.0,2.0,2.0,https://www.mubawab.ma/fr/a/7923886/vend-appartement-%C3%A0-sala-el-jadida-1-pi%C3%A8ce-avec-ascenseur-et-terrasse
+salé,Sala el Jadida,1059050.0,88.0,2.0,2.0,https://www.mubawab.ma/fr/a/7923873/vente-d-un-bel-appartement-%C3%A0-sala-el-jadida-surface-totale-88-m%C2%B2-ascenseur-et-terrasse
+salé,Sala el Jadida,1200000.0,118.0,4.0,2.0,https://www.mubawab.ma/fr/a/7916341/appartement-%C3%A0-l-achat-%C3%A0-sala-el-jadida-3-pi%C3%A8ces-confortables-bien-meubl%C3%A9-
+salé,Sidi Abdellah,420000.0,54.0,2.0,1.0,https://www.mubawab.ma/fr/a/7922674/appartement-%C3%A0-bayt-al-moustakbal-1
+salé,Sidi Hajji,875000.0,96.0,2.0,2.0,https://www.mubawab.ma/fr/a/7898954/bel-appartement-%C3%A0-vendre-%C3%A0-sidi-hajji-2-pi%C3%A8ces-confortables-terrasse-et-ascenseur-
+salé,Sala el Jadida,980000.0,95.0,3.0,2.0,https://www.mubawab.ma/fr/a/7919998/appartement-%C3%A0-vendre-sala-al-jadida
+salé,Sidi Hajji,1050000.0,134.0,3.0,2.0,https://www.mubawab.ma/fr/a/7918491/appartement-%C3%A0-vendre-%C3%A0-r%C3%A9sidence-kenza-sal%C3%A9-134m%C2%B2
+salé,Hay Chmaou,580000.0,63.0,2.0,1.0,https://www.mubawab.ma/fr/a/7919763/belle-apprt
+salé,Bettana,1200000.0,147.0,2.0,4.0,https://www.mubawab.ma/fr/a/7689145/bel-appartement-%C3%A0-vendre
+salé,Ghrablia,890000.0,108.0,2.0,2.0,https://www.mubawab.ma/fr/a/7919711/vente-d-un-bel-appartement-a-bab-sabta-r%C3%A9sidence-oum-hani
+salé,Sidi Hajji,630000.0,84.0,2.0,1.0,https://www.mubawab.ma/fr/a/7894541/tr%C3%A9s-belle-appatement-a-vendre
+salé,Mkinssia,700000.0,73.0,2.0,1.0,https://www.mubawab.ma/fr/a/7914050/vente-appartement-a-kwass-route-kenitra-sale
+salé,Sidi Hajji,960000.0,108.0,3.0,2.0,https://www.mubawab.ma/fr/a/7914121/vente-spacieux-appartement-a-bouchouk-sale
+salé,Sakani,2900000.0,66.0,2.0,2.0,https://www.mubawab.ma/fr/a/7905756/appartement-%C3%A0-vendre-%C3%A0-sal%C3%A9-alaayayda
+salé,Bab Sebta,1000000.0,165.0,5.0,2.0,https://www.mubawab.ma/fr/a/7918384/appartement-%C3%A0-vendre
+salé,Hay Chmaou,800000.0,76.0,2.0,1.0,https://www.mubawab.ma/fr/a/7918320/appartement-1er-%C3%A9tage-double-fa%C3%A7ade
+salé,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+salé,Bab Sebta,460000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7918128/appartement-%C3%A0-vendre
+salé,Tabriquet,980000.0,83.0,2.0,2.0,https://www.mubawab.ma/fr/a/7917912/appartement-%C3%A0-vendre
+salé,,,,,,https://www.mubawab.ma/fr/p/3398/r%C3%A9sidence-yasmine-temara
+salé,Sidi Hajji,640000.0,67.0,2.0,2.0,https://www.mubawab.ma/fr/a/7915993/appartement-de-67m-%C3%A0-sal%C3%A9-said-hajji-r%C3%A9s-ghita1
+salé,Cherkaoui - Marzouka,1100000.0,115.0,2.0,2.0,https://www.mubawab.ma/fr/a/7916644/appartement-haut-standing-%C3%A0-vendre-sal%C3%A9
+salé,Horria,890000.0,95.0,2.0,1.0,https://www.mubawab.ma/fr/a/7916095/apartment-avec-un-bon-emplacement
+mohammedia,Route de rabat,250000.0,59.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7918465/vente-d-un-appartement-%C3%A0-mohammedia-3-chambres
+mohammedia,Centre Ville,1196000.0,92.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779259/bel-appartement-%C3%A0-vendre-%C3%A0-mohammedia
+mohammedia,Route de rabat,250000.0,59.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7652501/vente-d-un-bel-appartement-%C3%A0-mohammedia
+mohammedia,Centre Ville,1001000.0,77.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7779104/appartement-%C3%A0-vendre
+mohammedia,Route de rabat,250000.0,57.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7918468/vente-d-un-bel-appartement-surface-totale-57-m%C2%B2
+mohammedia,Centre Ville,1124500.0,86.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7779256/appartement-%C3%A0-vendre
+mohammedia,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+mohammedia,Wafa,870000.0,87.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7303610/appartement-en-vente-surface-totale-87-m%C2%B2-espaces-verts-et-pisicne
+mohammedia,Centre Ville,1131000.0,87.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7779258/appartement-%C3%A0-vendre-en-plein-centre-ville
+mohammedia,,,,,,https://www.mubawab.ma/fr/p/1727/shems-al-madina-benslimane-moyen-standing
+mohammedia,Wafa,890000.0,89.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7598714/studio-%C3%A0-mohammedia-89-m%C2%B2
+mohammedia,Wafa,1089000.0,140.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7783587/appartement-%C3%A0-vendre-%C3%A0-mohammedia-en-r%C3%A9sidence-s%C3%A9curis%C3%A9e
+mohammedia,Centre Ville,1261000.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779278/bel-appartement-%C3%A0-vendre
+mohammedia,Centre Ville,1196000.0,92.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779265/appartement-%C3%A0-vendre-%C3%A0-mohammedia-avec-terrasse
+mohammedia,Centre Ville,1027000.0,79.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7779114/appartement-%C3%A0-vendre-en-plein-centre-ville
+mohammedia,Centre Ville,1112500.0,89.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7779142/appartement-%C3%A0-vendre
+mohammedia,Centre Ville,1087500.0,87.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7779129/bel-appartement-%C3%A0-vendre-avec-terrasse
+mohammedia,Centre Ville,1092000.0,84.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7779139/bel-appartement-%C3%A0-vendre-%C3%A0-mohammedia
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624626/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Centre Ville,1212500.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779271/appartement-%C3%A0-vendre-avec-balcon
+mohammedia,Centre Ville,1092000.0,84.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7779134/appartement-%C3%A0-vendre-avec-balcon
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624624/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Route de rabat,250000.0,58.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7918466/appartement-%C3%A0-vendre-%C3%A0-mohammedia-3-chambres
+mohammedia,Centre Ville,1261000.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779273/appartement-%C3%A0-vendre-en-plein-centre-ville
+mohammedia,Al Aalia,250000.0,62.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7597726/appartement-a-vendre-%C3%A0-mohammedia-3-chambres
+mohammedia,Monica,1296000.0,108.0,3.0,2.0,https://www.mubawab.ma/fr/a/7904811/appartement-a-vendre-108-m2-a-mohammedia
+mohammedia,Quartier Du Soleil,1150000.0,92.0,2.0,1.0,https://www.mubawab.ma/fr/a/7820992/appart-%C3%A0-vendre-de-92m2-avec-piscine
+mohammedia,Quartier Du Soleil,1100000.0,89.0,2.0,2.0,https://www.mubawab.ma/fr/a/7699345/appart-%C3%A0-vendre-de-89m2-avec-piscine
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624637/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613119/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,La Siesta,1550000.0,91.0,2.0,1.0,https://www.mubawab.ma/fr/a/7360419/appartement-91m%C2%B2-bord-de-mer-a-vendre-la-siesta
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613120/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Centre Ville,1236000.0,106.0,1.0,1.0,https://www.mubawab.ma/fr/a/7598890/superbe-appartement-%C3%A0-vendre-en-centre-ville
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617449/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617443/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Centre Ville,1326000.0,102.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779279/appartement-%C3%A0-vendre-en-plein-centre-ville
+mohammedia,Centre Ville,1034750.0,83.0,2.0,1.0,https://www.mubawab.ma/fr/pa/7779122/bel-appartement-%C3%A0-vendre-%C3%A0-mohammedia
+mohammedia,Centre Ville,1365000.0,105.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779281/appartement-%C3%A0-vendre
+mohammedia,Route de rabat,190000.0,45.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7912308/superbe-appartement-%C3%A0-vendre-%C3%A0-route-de-rabat-surface-de-45-m%C2%B2
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613118/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Route de rabat,190000.0,45.0,1.0,1.0,https://www.mubawab.ma/fr/pa/7912309/superbe-appartement-%C3%A0-vendre-%C3%A0-route-de-rabat-1-chambre
+mohammedia,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+mohammedia,Centre Ville,1196000.0,92.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779263/bel-appartement-%C3%A0-vendre-avec-terrasse
+mohammedia,Route de rabat,250000.0,58.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7918467/vend-appartement-%C3%A0-mohammedia-surface-de-58-m%C2%B2
+mohammedia,,,,,,https://www.mubawab.ma/fr/p/3688/natura-living
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617452/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Centre Ville,1365000.0,105.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779284/bel-appartement-%C3%A0-vendre-avec-terrasse
+mohammedia,Centre Ville,1430000.0,110.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7779285/appartement-%C3%A0-vendre-avec-balcon
+mohammedia,Wafa,717000.0,78.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783593/appartement-de-standing-2-chambres-salon-%C3%A0-mohammedia
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617447/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624636/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Route de rabat,250000.0,57.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7918469/appartement-%C3%A0-vendre-%C3%A0-mohammedia-superficie-57-m%C2%B2
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613112/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617442/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613125/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Wafa,740000.0,74.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7598710/appartement-%C3%A0-mohammedia-74-m%C2%B2-2-chambres-salon
+mohammedia,Centre Ville,1128000.0,94.0,2.0,1.0,https://www.mubawab.ma/fr/a/7598889/superbe-appartement-%C3%A0-vendre-en-centre-ville-2-belles-chambres
+mohammedia,Al Aalia,250000.0,62.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7597722/appartement-%C3%A0-l-achat-%C3%A0-mohammedia-3-chambres-agr%C3%A9ables
+mohammedia,Al Aalia,250000.0,62.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7597723/appartement-%C3%A0-vendre-%C3%A0-b%C3%A9ni-yakhlef-surface-totale-50-m%C2%B2
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613121/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617436/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617439/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624628/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617435/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617448/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613126/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613127/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624635/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624623/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Riad 2,9000.0,63.0,2.0,1.0,https://www.mubawab.ma/fr/a/7554436/des-appartements-%C3%A0-vendre
+mohammedia,Wafa,659000.0,75.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783591/appartement-de-standing-en-r%C3%A9sidence-ferm%C3%A9e
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7624625/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7613123/appartement-55m%C2%B2-en-vente-r%C3%A9sidences-assafae
+mohammedia,Wafa,750000.0,75.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7303615/appartement-de-75-m%C2%B2-r%C3%A9sidence-bougainvillier-mohammedia
+mohammedia,Wafa,1040000.0,104.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7303616/appartement-de-104-m%C2%B2-en-vente-r%C3%A9sidence-bougainvillier
+mohammedia,Wafa,686000.0,84.0,2.0,2.0,https://www.mubawab.ma/fr/pa/7783595/appartement-de-standing-en-r%C3%A9sidence-ferm%C3%A9e-et-s%C3%A9curis%C3%A9e-%C3%A0-mohammedia
+mohammedia,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+mohammedia,Al Aalia,250000.0,62.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7597716/bel-appartement-%C3%A0-vendre-%C3%A0-mohammedia
+mohammedia,Al Aalia,250000.0,62.0,3.0,2.0,https://www.mubawab.ma/fr/pa/7597720/bel-appartement-%C3%A0-vendre-%C3%A0-mohammedia-3-belles-chambres
+mohammedia,,,,,,https://www.mubawab.ma/fr/p/1732/ahl-loghlam-moyen-standing-tit-mellil
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617438/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Quartier du Parc,870000.0,68.0,1.0,1.0,https://www.mubawab.ma/fr/a/7920016/studio-en-vente-quartier-du-parc-bien-meubl%C3%A9
+mohammedia,Al Aalia,250000.0,55.0,3.0,1.0,https://www.mubawab.ma/fr/pa/7617450/appartement-55m%C2%B2-en-vente-riad-assalam
+mohammedia,Port,850000.0,100.0,1.0,1.0,https://www.mubawab.ma/fr/a/7944239/studio-%C3%A0-vendre-100-m%C2%B2-bd-palestine-mohammadia
+mohammedia,Port,2150000.0,164.0,3.0,2.0,https://www.mubawab.ma/fr/a/7931497/appartement-%C3%A0-vendre-164-m%C2%B2-3-chambres-bd-hassan-2-mohammadia
+mohammedia,Mohammedia,1160000.0,91.0,3.0,1.0,https://www.mubawab.ma/fr/a/7944234/appartement-%C3%A0-vendre-91-m%C2%B2-3-chambres-mohammadia-mohammadia
+mohammedia,Diour Dokala,2700000.0,158.0,3.0,5.0,https://www.mubawab.ma/fr/a/7944195/appartement-%C3%A0-vendre-de-158-0-m%C2%B2-%C3%A0-mohamm%C3%A9dia-diour-dokala
+mohammedia,Hay Salam,2900000.0,188.0,3.0,2.0,https://www.mubawab.ma/fr/a/7943501/appartement-%C3%A0-vendre-188-m%C2%B2-3-chambres-hay-salam-mohammadia
+mohammedia,Al Aalia,720000.0,87.0,2.0,2.0,https://www.mubawab.ma/fr/a/7942502/vente-appartement-tr%C3%A8s-bien-r%C3%A9nov%C3%A9
+mohammedia,La Siesta,2520000.0,144.0,2.0,2.0,https://www.mubawab.ma/fr/a/7926992/magnifique-appartement-les-orchid%C3%A9es-4
+mohammedia,Centre Ville,1380000.0,86.0,2.0,1.0,https://www.mubawab.ma/fr/a/7919539/vue-sur-mer-au-centre-ville
+mohammedia,Mannesmann,1600000.0,83.0,2.0,2.0,https://www.mubawab.ma/fr/a/7940317/appartement-avec-une-belle-vue-d%C3%A9gag%C3%A9e-sur-mer
+mohammedia,La Siesta,2100000.0,117.0,2.0,2.0,https://www.mubawab.ma/fr/a/7919269/aux-orchid%C3%A9es-117m-dernier-etage-2terrasses
+mohammedia,La Siesta,1210000.0,81.0,2.0,1.0,https://www.mubawab.ma/fr/a/7919258/%C3%A0-la-siesta-resort-81m-ensoleill%C3%A9-et-renouvel%C3%A9
+mohammedia,Hay saada,450000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7940883/appartement-a-vendre-%C3%A0-mohammedia
+mohammedia,Hay saada,450000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7940882/appartement-a-vendre-%C3%A0-mohammedia
+mohammedia,Wafa,1390000.0,94.0,3.0,2.0,https://www.mubawab.ma/fr/a/7896704/appartement-%C3%A0-vendre-94-m%C2%B2-3-chambres-bd-des-far-mohammadia
+mohammedia,Port,600000.0,71.0,2.0,1.0,https://www.mubawab.ma/fr/a/7935718/appartement-%C3%A0-vendre-71-m%C2%B2-2-chambres-hay-nahda-mohammadia
+mohammedia,Nassim,600000.0,74.0,2.0,1.0,https://www.mubawab.ma/fr/a/7935708/appartement-%C3%A0-vendre-74-m%C2%B2-2-chambres-nassim-mohammadia
+mohammedia,Port,980000.0,140.0,3.0,1.0,https://www.mubawab.ma/fr/a/7933936/appartement-%C3%A0-vendre-140-m%C2%B2-3-chambres-bd-sebta-mohammadia
+martil,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+martil,,,,,,https://www.mubawab.ma/fr/p/3861/tanja-balia-pool-residences
+martil,Martil,360000.0,40.0,1.0,1.0,https://www.mubawab.ma/fr/a/7944305/superbe-appartement-%C3%A0-vendre-%C3%A0-martil-surface-totale-40-m%C2%B2-meubl%C3%A9-
+martil,Martil,300000.0,45.0,2.0,1.0,https://www.mubawab.ma/fr/a/7938981/vend-appartement-%C3%A0-martil-1-pi%C3%A8ce-syst%C3%A8me-de-parabole-et-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+martil,Martil,250000.0,49.0,1.0,1.0,https://www.mubawab.ma/fr/a/7944979/vend-appartement-%C3%A0-martil-surface-de-49-m%C2%B2-meubl%C3%A9-
+martil,Martil,550000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944666/joli-appart-sur-martil
+martil,Martil,480000.0,63.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944579/appartement-%C3%A0-vendre-%C3%A0-martil-2-chambres-salon-traditionnel-
+martil,Martil,550000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944578/joli-appartement-sur-martil
+martil,Martil,530000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7944557/appartement-%C3%A0-l-achat-%C3%A0-martil-surface-totale-70-m%C2%B2-salon-traditionnel-et-syst%C3%A8me-d-antenne-parabolique-
+martil,Martil,780000.0,105.0,3.0,1.0,https://www.mubawab.ma/fr/a/7944149/appartement-%C3%A0-l-achat-%C3%A0-martil-3-belles-chambres
+martil,Martil,680000.0,100.0,3.0,1.0,https://www.mubawab.ma/fr/a/7944144/superbe-appartement-%C3%A0-vendre-%C3%A0-martil-2-pi%C3%A8ces
+martil,Martil,820000.0,75.0,3.0,2.0,https://www.mubawab.ma/fr/a/7943913/nous-avons-des-appartements-pr%C3%AAts-%C3%A0-proximit%C3%A9-de-la-mer
+martil,Martil,520000.0,86.0,3.0,1.0,https://www.mubawab.ma/fr/a/7941230/appart-titr%C3%A9-%C3%A0-vendre
+martil,Martil,650000.0,87.0,3.0,2.0,https://www.mubawab.ma/fr/a/7864195/appartements-subventionn%C3%A9s-%C3%A0-vendre-%C3%A0-martil-trois-pi%C3%A8ces-et-un-hall
+martil,Martil,3000000.0,84.0,2.0,2.0,https://www.mubawab.ma/fr/a/7938289/appartement-%C3%A0-l-achat-%C3%A0-martil-2-belles-chambres-
+martil,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+martil,Martil,410000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7787740/appartement-ensoleill%C3%A9-de-2-chambres-%C3%A0-vendre
+martil,Martil,410000.0,53.0,1.0,1.0,https://www.mubawab.ma/fr/a/7940590/appartement-%C3%A0-l-achat-%C3%A0-martil-1-pi%C3%A8ce-salon-traditionnel-antenne-parabolique-g%C3%A9n%C3%A9rale-
+martil,,,,,,https://www.mubawab.ma/fr/p/3861/tanja-balia-pool-residences
+martil,Martil,580000.0,62.0,2.0,1.0,https://www.mubawab.ma/fr/a/7940472/vend-appartement-%C3%A0-martil-1-pi%C3%A8ce-antenne-parabolique-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+martil,Martil,550000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7940437/vend-appartement-%C3%A0-martil-surface-de-60-m%C2%B2-syst%C3%A8me-de-parabole-et-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+martil,Martil,480000.0,62.0,2.0,1.0,https://www.mubawab.ma/fr/a/7940374/location-saisonni%C3%A8re-%C3%A0-martil-2-belles-chambres-salon-marocain-s%C3%A9curit%C3%A9-
+martil,Martil,550000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7939985/vend-appartement-%C3%A0-martil-surface-de-65-m%C2%B2-cuisine-bien-%C3%A9quip%C3%A9e-
+martil,Martil,490000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7939822/appartement-en-vente-%C3%A0-martil-2-belles-chambres-grande-terrasse-
+martil,Martil,590000.0,72.0,2.0,1.0,https://www.mubawab.ma/fr/a/7939794/appartement-%C3%A0-l-achat-%C3%A0-martil-2-belles-chambres-belle-terrasse-
+martil,Martil,450000.0,54.0,1.0,1.0,https://www.mubawab.ma/fr/a/7857087/appartement-meubl%C3%A9e-en-vente-%C3%A0-martil
+martil,Martil,530000.0,63.0,2.0,2.0,https://www.mubawab.ma/fr/a/7891394/appartement-en-vente-%C3%A0-martil-1-pi%C3%A8ce-grand-balcon-
+martil,Martil,750000.0,95.0,3.0,2.0,https://www.mubawab.ma/fr/a/7897157/appartement-%C3%A0-l-achat-%C3%A0-martil-3-chambres-agr%C3%A9ables-jardin-et-terrasse-
+martil,Martil,690000.0,90.0,3.0,2.0,https://www.mubawab.ma/fr/a/7938631/vend-appartement-%C3%A0-martil-1-pi%C3%A8ce-cuisine-%C3%A9quip%C3%A9e-
+martil,Martil,350000.0,58.0,2.0,1.0,https://www.mubawab.ma/fr/a/7936284/appartement-%C3%A0-vendre-pour-familles
+martil,Martil,450000.0,55.0,2.0,1.0,https://www.mubawab.ma/fr/a/7935314/bel-appartement-%C3%A0-vendre-%C3%A0-martil-2-chambres-parabole-
+martil,Martil,490000.0,55.0,2.0,1.0,https://www.mubawab.ma/fr/a/7935262/vend-appartement-%C3%A0-martil-2-chambres-cuisine-%C3%A9quip%C3%A9e-
+martil,Martil,350000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7930499/bel-appartement-%C3%A0-vendre-%C3%A0-martil-1-pi%C3%A8ce-terrasse
+martil,Martil,650000.0,86.0,3.0,2.0,https://www.mubawab.ma/fr/a/7895567/vente-d-un-bel-appartement-%C3%A0-martil-3-belles-chambres-four-encastr%C3%A9-
+martil,Martil,650000.0,85.0,3.0,1.0,https://www.mubawab.ma/fr/a/7890850/superbe-appartement-%C3%A0-vendre-%C3%A0-martil-surface-totale-85-m%C2%B2-belle-terrasse-
+martil,Martil,570000.0,70.0,2.0,2.0,https://www.mubawab.ma/fr/a/7893560/bel-appartement-%C3%A0-vendre-%C3%A0-martil-surface-de-70-m%C2%B2-cuisine-enti%C3%A8rement-%C3%A9quip%C3%A9e-
+martil,Martil,560000.0,70.0,2.0,2.0,https://www.mubawab.ma/fr/a/7921769/bel-appartement-%C3%A0-vendre-%C3%A0-martil-2-belles-chambres-cuisine-enti%C3%A8rement-%C3%A9quip%C3%A9e-
+martil,Martil,550000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7891630/vente-d-un-bel-appartement-%C3%A0-martil-1-pi%C3%A8ce-belle-terrasse-et-jardin-
+martil,Martil,350000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7925371/appartement-%C3%A0-l-achat-%C3%A0-martil-surface-totale-60-m%C2%B2-concierge-
+martil,Martil,500000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7930454/appartement-en-vente-%C3%A0-martil-2-chambres-agr%C3%A9ables-salon-avec-d%C3%A9coration-marocaine-
+martil,Martil,630000.0,65.0,3.0,1.0,https://www.mubawab.ma/fr/a/7930384/appartement-%C3%A0-vendre-%C3%A0-martil-2-grandes-pi%C3%A8ces-espaces-verts-et-ascenseur-
+martil,Martil,980000.0,120.0,4.0,2.0,https://www.mubawab.ma/fr/a/7890520/bel-appartement-%C3%A0-vendre-%C3%A0-martil-surface-totale-55-m%C2%B2-syst%C3%A8me-de-parabole-et-r%C3%A9sidence-s%C3%A9curis%C3%A9e
+martil,Martil,430000.0,50.0,2.0,1.0,https://www.mubawab.ma/fr/a/7896127/appartement-%C3%A0-l-achat-%C3%A0-martil-3-chambres-cuisine-bien-%C3%A9quip%C3%A9e-
+martil,Martil,280000.0,45.0,2.0,1.0,https://www.mubawab.ma/fr/a/7929160/appartement-non-meubl%C3%A9-%C3%A0-vendre-centre-de-martil
+martil,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+martil,,,,,,https://www.mubawab.ma/fr/p/3576/les-jardins-de-mesnana-golf
+martil,Martil,920000.0,75.0,2.0,1.0,https://www.mubawab.ma/fr/a/7927197/appartement-2-pas-mer-martil
+martil,Martil,660000.0,87.0,3.0,1.0,https://www.mubawab.ma/fr/a/7927179/bel-appartement-%C3%A0-vendre-%C3%A0-martil-1-pi%C3%A8ce-salon-traditionnel-marocain-
+martil,Martil,570000.0,70.0,3.0,1.0,https://www.mubawab.ma/fr/a/7890734/appartement-%C3%A0-l-achat-%C3%A0-martil-3-chambres-antenne-parabolique-
+martil,Martil,450000.0,71.0,2.0,1.0,https://www.mubawab.ma/fr/a/7926402/vente-d-un-bel-appartement-%C3%A0-martil
+martil,Martil,490000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7711270/appartement-%C3%A0-l-achat-%C3%A0-martil-2-grandes-pi%C3%A8ces-bien-meubl%C3%A9-
+martil,Martil,400000.0,45.0,1.0,1.0,https://www.mubawab.ma/fr/a/7486033/studio-vue-sur-piscine
+martil,Martil,630000.0,68.0,2.0,2.0,https://www.mubawab.ma/fr/a/7891656/appartement-en-vente-%C3%A0-martil-superficie-68-m%C2%B2-belle-terrasse-et-jardin-
+martil,Martil,710000.0,94.0,2.0,2.0,https://www.mubawab.ma/fr/a/7924216/appartement-%C3%A0-vendre-%C3%A0-martil-surface-de-94-m%C2%B2-four-encastr%C3%A9-
+martil,Martil,450000.0,55.0,2.0,1.0,https://www.mubawab.ma/fr/a/7894615/appartement-%C3%A0-vendre-%C3%A0-martil-2-belles-chambres-terrasse-et-jardin-
+martil,Martil,370000.0,100.0,2.0,2.0,https://www.mubawab.ma/fr/a/7923457/bel-appartement-%C3%A0-vendre-%C3%A0-martil-surface-de-100-m%C2%B2-meubl%C3%A9
+martil,Martil,365000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7922731/appartement-%C3%A0-vendre-%C3%A0-martil-surface-de-65-m%C2%B2-conciergerie-%C3%A0-disposition-syst%C3%A8me-de-climatisation
+martil,Martil,650000.0,80.0,3.0,1.0,https://www.mubawab.ma/fr/a/7891074/appartement-en-vente-%C3%A0-martil-3-chambres-agr%C3%A9ables-belle-terrasse-et-jardin-
+martil,Martil,400000.0,52.0,2.0,1.0,https://www.mubawab.ma/fr/a/7897466/appartement-%C3%A0-l-achat-%C3%A0-martil-superficie-75-m%C2%B2-antenne-parabolique-
+martil,Martil,720000.0,51.0,1.0,1.0,https://www.mubawab.ma/fr/a/7904996/apt-piscine-%C3%A0-150m-de-la-plage-et-corniche
+martil,Martil,570000.0,62.0,2.0,2.0,https://www.mubawab.ma/fr/a/7918855/appartement-tir%C3%A9-neuf-%C3%A0-martil
+martil,Martil,360000.0,44.0,2.0,1.0,https://www.mubawab.ma/fr/a/7917805/des-appartements-a-louer-a-partir-de-44m-35million
+martil,Martil,250000.0,46.0,2.0,1.0,https://www.mubawab.ma/fr/a/7917760/appartement-%C3%A0-martil
+martil,Martil,550000.0,70.0,2.0,1.0,https://www.mubawab.ma/fr/a/7916606/appartement-a-wad-el-maleh
+martil,Martil,8300.0,96.0,3.0,1.0,https://www.mubawab.ma/fr/a/7915458/vend-appartement-%C3%A0-martil-6-pi%C3%A8ces-confortables-antenne-parabolique-et-s%C3%A9curit%C3%A9-
+martil,Martil,900000.0,85.0,2.0,1.0,https://www.mubawab.ma/fr/a/7803862/un-tr%C3%A8s-bel-appartement-%C3%A0-2-pas-de-la-corniche
+martil,Martil,750000.0,65.0,2.0,2.0,https://www.mubawab.ma/fr/a/7872384/p-v00199-appartement-de-65m%C2%B2-%C3%A0-martil
+martil,Martil,800000.0,77.0,2.0,1.0,https://www.mubawab.ma/fr/a/7912617/appartement-%C3%A0-l-achat-%C3%A0-martil-2-belles-chambres-bien-meubl%C3%A9
+martil,Martil,600000.0,80.0,3.0,1.0,https://www.mubawab.ma/fr/a/7893571/bel-appartement-%C3%A0-vendre-%C3%A0-martil-surface-de-80-m%C2%B2-cuisine-enti%C3%A8rement-%C3%A9quip%C3%A9e-
+martil,Martil,580000.0,75.0,2.0,1.0,https://www.mubawab.ma/fr/a/7891057/vend-appartement-%C3%A0-martil-1-pi%C3%A8ce-antenne-parabolique-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+martil,Martil,580000.0,75.0,2.0,1.0,https://www.mubawab.ma/fr/a/7892149/bel-appartement-%C3%A0-vendre-%C3%A0-martil-surface-totale-75-m%C2%B2-belle-terrasse-et-jardin-
+martil,Martil,380000.0,50.0,2.0,1.0,https://www.mubawab.ma/fr/a/7911136/bel-appartement-%C3%A0-vendre-%C3%A0-martil-3-pi%C3%A8ces-confortables-bien-meubl%C3%A9
+martil,Martil,550000.0,60.0,2.0,2.0,https://www.mubawab.ma/fr/a/7892237/superbe-appartement-%C3%A0-vendre-%C3%A0-martil-1-pi%C3%A8ce-antenne-parabolique-et-s%C3%A9curit%C3%A9-
+martil,Martil,470000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7910623/cause-d%C3%A9part-vente-bel-app-meubl%C3%A9-%C3%A0-10-mn-%C3%A0-pied
+martil,,,,,,https://immoexpo.avito.ma/ar/reservez-ticket/?utm_campaign=IMMO_EXPO_2024&utm_source=Mubawab&utm_medium=Display&utm_content=FR_native_ad&utm_term=none
+martil,Martil,520000.0,57.0,2.0,1.0,https://www.mubawab.ma/fr/a/7910218/appartement-titree-a-martil-av-miramar-57m2
+martil,Martil,760000.0,97.0,3.0,2.0,https://www.mubawab.ma/fr/a/7899792/appartements-de-luxe-et-moderne-3-chambres-%C3%A0-martil
+martil,,,,,,https://www.mubawab.ma/fr/p/3576/les-jardins-de-mesnana-golf
+martil,Martil,690000.0,82.0,3.0,2.0,https://www.mubawab.ma/fr/a/7906902/appartements-titr%C3%A9-%C3%A0-martil
+martil,Martil,9300.0,67.0,2.0,1.0,https://www.mubawab.ma/fr/a/7906744/appartement-%C3%A0-l-achat-%C3%A0-martil-2-chambres-terrasse-
+martil,Martil,620000.0,76.0,3.0,1.0,https://www.mubawab.ma/fr/a/7906381/appartement-en-vente-%C3%A0-martil-3-chambres-agr%C3%A9ables-porte-blind%C3%A9e-et-parabole
+martil,Martil,800000.0,100.0,3.0,2.0,https://www.mubawab.ma/fr/a/7897467/superbe-appartement-%C3%A0-vendre-%C3%A0-martil-1-pi%C3%A8ce-terrasse-et-ascenseur-
+martil,Martil,480000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7895573/bel-appartement-%C3%A0-vendre-%C3%A0-martil-2-chambres-terrasse-et-jardin-
+martil,Martil,570000.0,68.0,3.0,1.0,https://www.mubawab.ma/fr/a/7905549/superbe-appartement-%C3%A0-vendre-%C3%A0-martil-surface-totale-68-m%C2%B2-salon-typique-marocain-r%C3%A9sidence-s%C3%A9curis%C3%A9e-
+martil,Martil,850000.0,85.0,2.0,1.0,https://www.mubawab.ma/fr/a/7905092/appartement-neuf
+martil,Martil,420000.0,68.0,5.0,1.0,https://www.mubawab.ma/fr/a/7903012/vend-appartement-%C3%A0-martil-5-chambres-agr%C3%A9ables-espaces-verts-et-ascenseur-
+martil,Martil,650000.0,85.0,2.0,1.0,https://www.mubawab.ma/fr/a/7901361/appartement-%C3%A0-vendre-%C3%A0-martil-2-chambres-grand-balcon-
+martil,Martil,650000.0,85.0,3.0,2.0,https://www.mubawab.ma/fr/a/7897465/appartement-en-vente-%C3%A0-martil-superficie-85-m%C2%B2-cuisine-%C3%A9quip%C3%A9e-
+martil,Martil,390000.0,50.0,2.0,1.0,https://www.mubawab.ma/fr/a/7717881/vente-appartement-%C3%A0-martil-mixta-essafia-meubl%C3%A9
+martil,Martil,550000.0,65.0,2.0,1.0,https://www.mubawab.ma/fr/a/7899723/vend-appartement-%C3%A0-martil-surface-de-65-m%C2%B2-terrasse-
+martil,Martil,580000.0,68.0,3.0,1.0,https://www.mubawab.ma/fr/a/7899722/bel-appartement-%C3%A0-vendre-%C3%A0-martil-1-pi%C3%A8ce-cuisini%C3%A8re-avec-four-
+martil,Martil,580000.0,75.0,2.0,1.0,https://www.mubawab.ma/fr/a/7899691/appartement-de-luxe-titr%C3%A9-%C3%A0-vendre-%C3%A0-martil
+martil,Martil,650000.0,122.0,3.0,1.0,https://www.mubawab.ma/fr/a/7898935/bel-appartement-%C3%A0-vendre-%C3%A0-martil-3-chambres-salon-marocain-et-antenne-parabolique-
+martil,Martil,450000.0,54.0,1.0,1.0,https://www.mubawab.ma/fr/a/7898795/appartement-%C3%A0-vendre-%C3%A0-martil-1-pi%C3%A8ce-bien-meubl%C3%A9-
+martil,Martil,650000.0,84.0,2.0,1.0,https://www.mubawab.ma/fr/a/7897984/appartement
+martil,Martil,320000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7897918/appartement-%C3%A0-l-achat-%C3%A0-martil-superficie-60-m%C2%B2-chauffage-central-
+martil,Martil,480000.0,80.0,2.0,1.0,https://www.mubawab.ma/fr/a/7895658/bel-appartement-%C3%A0-vendre-%C3%A0-martil-1-pi%C3%A8ce-bien-meubl%C3%A9-
+martil,Martil,380000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7895211/vente-d-un-bel-appartement-%C3%A0-martil-surface-totale-60-m%C2%B2-bien-meubl%C3%A9-
+martil,Martil,370000.0,67.0,2.0,1.0,https://www.mubawab.ma/fr/a/7894956/appartement-%C3%A0-l-achat-%C3%A0-martil-surface-de-80-m%C2%B2-prestation-de-conciergerie-
+martil,Martil,440000.0,60.0,2.0,1.0,https://www.mubawab.ma/fr/a/7894864/vend-appartement-%C3%A0-martil-2-chambres-agr%C3%A9ables-bien-meubl%C3%A9-
